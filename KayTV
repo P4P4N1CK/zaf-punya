@@ -1,0 +1,231 @@
+#EXTM3U 
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+<!DOCTYPE>
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+<html>
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+<head>
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+<link rel="icon" type="image/png" href="https://rtmklik.rtm.gov.my">
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+<script type="text/javascript">
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+window.location = "https://rtmklik.rtm.gov.my"
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+</script>
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+</head>
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+<div style="text-align:right;position:fixed;bottom:3px;right:3px;width:100%;z-index:999999;cursor:pointer;line-height:0;display:block;"><a target="_blank" href="https://www.freewebhostingarea.com" title="Free Web Hosting with PHP5 or PHP7"><img alt="Free Web Hosting" src="https://www.freewebhostingarea.com/images/poweredby.png" style="border-width: 0px;width: 180px; height: 45px; float: right;"></a></div>
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+</html>
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+<noscript>
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+</noscript>
+#EXTINF: -1 tvg-id="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Gemilang_190x80_TV-Guide.png" group-title="Extra", Gemilang Bersama
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
+#EXTINF: -1 tvg-id="101" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="Freeview", TV1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
+#EXTINF: -1 tvg-id="102" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="Freeview", TV2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
+#EXTINF: -1 tvg-id="103" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="Freeview", TV3
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
+#EXTINF: -1 tvg-logo="http://kayzrule.ueuo.com/logo/tv6.png" group-title="Freeview", TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+#EXTINF: -1 tvg-id="148" tvg-logo="https://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="Freeview", 8TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
+#EXTINF: -1 tvg-id="149" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-title="Freeview", TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
+#EXTINF: -1 tvg-id="114" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="Freeview", TV Alhijrah
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+#EXTINF: -1 tvg-id="146" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png" group-title="Freeview", TV Okey
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+#EXTINF: -1 tvg-id="122" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="Freeview", TVS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+#EXTINF: -1 tvg-id="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="Freeview", Awesome TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
+#EXTINF: -1 tvg-id="147" tvg-logo="https://didik.tv/images/logotv2.png" group-title="Freeview", Didik TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2.m3u8
+#EXTINF: -1 tvg-logo="http://kayzrule.ueuo.com/logo/dramasangat.png" group-title="Freeview", Drama Sangat
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
+#EXTINF: -1 tvg-id="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Astro", Astro Ria
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+#EXTINF: -1 tvg-id="107" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Astro", Astro Warna
+https://kaytv@7ou3.short.gy/dash-warna.mpd
+#EXTINF: -1 tvg-id="108" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Astro", Astro Citra
+https://kaytv@7ou3.short.gy/dash-citra.mpd
+#EXTINF: -1 tvg-id="106" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="Astro", Astro Oasis
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+#EXTINF: -1 tvg-id="105" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="Astro", Astro Prima
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#EXTINF: -1 tvg-id="113" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-title="Astro", Astro Aura
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+#EXTINF: -1 tvg-id="112" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="Astro", Astro Rania
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#EXTINF: -1 tvg-id="AstroVaanavil" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" group-title="Astro", Astro Vaanavil
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+#EXTINF: -1 tvg-id="AstroVinmeenHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="Astro", Astro Vinmeen
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
+#EXTINF: -1 tvg-id="251" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="Astro", Astro BollyOne
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+#EXTINF: -1 tvg-id="241" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png" group-title="Astro", Astro BoxOffice
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+#EXTINF: -1 tvg-id="111" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png" group-title="Go Shop", Go Shop
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
+#EXTINF: -1 tvg-id="120" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png" group-title="Go Shop", Go Shop (Gaaya)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
+#EXTINF: -1 tvg-id="118" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png" group-title="Go Shop", Go Shop (Ruuma)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
+#EXTINF: -1 tvg-id="392" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="Korea", KBS World
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
+#EXTINF: -1 tvg-id="396" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="Korea", K Plus
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+#EXTINF: -1 tvg-id="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="Korea", ONE
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+#EXTINF: -1 tvg-id="395" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="Korea", tvN
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+#EXTINF: -1 tvg-id="411" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies", HBO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+#EXTINF: -1 tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Movies", HBO Family
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+#EXTINF: -1 tvg-id="415" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="Movies", HBO Hits
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+#EXTINF: -1 tvg-id="412" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="Movies", CINEMAX
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+#EXTINF: -1 tvg-id="404" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Movies", BOO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+#EXTINF: -1 tvg-id="321" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="Movies", CCM
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+#EXTINF: -1 tvg-id="309" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="Movies", Celestial Movies
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+#EXTINF: -1 tvg-id="401" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png" group-title="Movies", HITS Movies
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+#EXTINF: -1 tvg-id="413" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="Movies", Showcase Movies
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+#EXTINF: -1 tvg-id="416" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="Movies", tvN Movies
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+#EXTINF: -1 tvg-id="701" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment", AXN
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+#EXTINF: -1 tvg-id="116" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="Entertainment", Colors HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+#EXTINF: -1 tvg-id="706" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="Entertainment", HITS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
+#EXTINF: -1 tvg-id="300" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-title="Entertainment", iQIYI HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+#EXTINF: -1 tvg-id="703" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="Entertainment", Lifetime
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+#EXTINF: -1 tvg-id="713" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="Entertainment", Paramount Network
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
+#EXTINF: -1 tvg-id="704" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="Entertainment", PRIMEtime
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
+#EXTINF: -1 tvg-id="712" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="Entertainment", Warner TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
+#EXTINF: -1 tvg-id="709" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="Lifestyle", Asian Food Network
+https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+#EXTINF: -1 tvg-id="717" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" group-title="Lifestyle", BBC Lifestyle
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
+#EXTINF: -1 tvg-id="716" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-title="Lifestyle", DMAX
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+#EXTINF: -1 tvg-id="708" tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-title="Lifestyle", Food Network
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
+#EXTINF: -1 tvg-id="715" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-title="Lifestyle", HGTV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
+#EXTINF: -1 tvg-id="707" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="Lifestyle", TLC
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+#EXTINF: -1 tvg-id="556" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="Knowledge", Animal Planet
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
+#EXTINF: -1 tvg-id="554" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="Knowledge", BBC Earth
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+#EXTINF: -1 tvg-id="714" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-title="Knowledge", Crime+Investigation
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+#EXTINF: -1 tvg-id="552" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-title="Knowledge", Discovery
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+#EXTINF: -1 tvg-id="553" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="Knowledge", Discovery Asia
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+#EXTINF: -1 tvg-id="555" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="Knowledge", History
+https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+#EXTINF: -1 tvg-id="551" tvg-logo="https://linear-poster.astro.com.my/prod/logo/National_Geographic_v1.png" group-title="Knowledge", National Geographic
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
+#EXTINF: -1 tvg-id="550" tvg-logo="https://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png" group-title="Knowledge", Nat Geo Wild
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
+#EXTINF: -1 tvg-id="501" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="News", Astro Awani
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+#EXTINF: -1 tvg-id="518" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ABC_v1.png" group-title="News", ABC Australia
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
+#EXTINF: -1 tvg-id="513" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-title="News", Al Jazeera
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
+#EXTINF: -1 tvg-id="512" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_World_News_v1.png" group-title="News", BBC World News
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png" group-title="News", Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF: -1 tvg-id="502" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="News", BERNAMA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+#EXTINF: -1 tvg-id="517" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_979_v3.png" group-title="News", Bloomberg
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
+#EXTINF: -1 tvg-id="503" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_v1.png" group-title="News", CGTN
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
+#EXTINF: -1 tvg-id="515" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-title="News", CNA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
+#EXTINF: -1 tvg-id="516" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNBC_v1.png" group-title="News", CNBC Asia
+https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
+#EXTINF: -1 tvg-id="511" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNN_v1.png" group-title="News", CNN
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
+#EXTINF: -1 tvg-id="521" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DW_v1.png" group-title="News", DW
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
+#EXTINF: -1 tvg-id="522" tvg-logo="https://linear-poster.astro.com.my/prod/logo/France24_v1.png" group-title="News", FRANCE24
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
+#EXTINF: -1 tvg-id="514" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png" group-title="News", Sky News
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
+#EXTINF: -1 tvg-id="611" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="Kids", Astro Ceria
+https://kaytv@7ou3.short.gy/dash-ceria.mpd
+#EXTINF: -1 tvg-id="619" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Boomerang_Logo.png" group-title="Kids", Boomerang
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
+#EXTINF: -1 tvg-id="615" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="Kids", Cartoon Network
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+#EXTINF: -1 tvg-id="618" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="Kids", Moonbug Kids
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
+#EXTINF: -1 tvg-id="616" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png" group-title="Kids", Nickelodeon
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+#EXTINF: -1 tvg-id="617" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png" group-title="Kids", Nick Jr
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+#EXTINF: -1 tvg-id="612" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="Kids", TA-DAA!
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
+#EXTINF: -1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png" group-title="Sports", Astro Supersport UHD CH805
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+#EXTINF: -1 tvg-id="801" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Sports", Astro Arena
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+#EXTINF: -1 tvg-id="802" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sports", Astro Arena 2
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
+#EXTINF: -1 tvg-id="811" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports", Astro Supersport
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
+#EXTINF: -1 tvg-id="812" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sports", Astro Supersport 2
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
+#EXTINF: -1 tvg-id="813" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sports", Astro Supersport 3
+https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
+#EXTINF: -1 tvg-id="814" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sports", Astro Supersport 4
+https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
+#EXTINF: -1 tvg-id="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sports", Astro Supersport 5
+https://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
+#EXTINF: -1 tvg-id="824" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Sports", Astro Cricket
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+#EXTINF: -1 tvg-id="818" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="Sports", beIN Sports
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+#EXTINF: -1 tvg-id="817" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Sports", beIN Sports 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+#EXTINF: -1 tvg-id="819" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sports", beIN Sports 3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+#EXTINF: -1 tvg-id="820" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-title="Sports", Eurosport
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+#EXTINF: -1 tvg-id="822" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="Sports", Golf Channel
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+#EXTINF: -1 tvg-id="823" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Sports", Premier Sports
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+#EXTINF: -1 tvg-id="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="Sports", SPOTV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+#EXTINF: -1 tvg-id="810" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-title="Sports", SPOTV2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="Sports", Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF: -1 tvg-id="821" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="Sports", WWE Network
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
