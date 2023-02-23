@@ -10,7 +10,7 @@
 
 billed-msg="😎HAZIQ DANIAL MOHD IQBAL😎"
 
-#EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24" billed-msg="Channels that are not available temporarily : Vaanavil, Vellithirai, Hua Hee Dai, Arena 2, Supersport 1. "
+#EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24" billed-msg="Channels that are not available temporarily : 😎 HAZIQ DANIAL MOHD IQBAL 😎"
 
 #EXTINF:-1 tvg-id="CHN" group-title="Info" ch-number="98" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",DO NOT SELL THIS PLAYLIST!
 https://aqfadtv.xyz/videos/info/index.mpd
