@@ -311,7 +311,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #https://linears-playback.astro.com.my/vsg/41VqzWv0mRmdP16iF87cgul0XSUE8tCo3hJTMEh6GNt-w=TkFD/dash-wv/jitp-linearwm/2309/default_ott.mpd
 
 
-
+#EXTINF:-1 tvg-id="KTV" ch-number="216" Indian" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/KTV.png",216 KTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
