@@ -310,6 +310,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #https://linears-playback.astro.com.my/vsg/41VqzWv0mRmdP16iF87cgul0XSUE8tCo3hJTMEh6GNt-w=TkFD/dash-wv/jitp-linearwm/2309/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroVaanavil" ch-number="201" group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2309
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:-1 tvg-id="KTV" ch-number="216" Indian" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/KTV.png",216 KTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
