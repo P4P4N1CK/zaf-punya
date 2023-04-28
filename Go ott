@@ -298,7 +298,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tUFjJhFKE+kGYqT7rzxTKw","kid":"ckmcatRMw32VqQdUIJEREA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png" group-title="AOTG All;Indian" ch-number="201",201 Astro Vaanavil FHD
+#EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png" group-title="AOTG All;Indian" ch-number="201",201 Astro Vaanavil FH
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #https://linears-playback.astro.com.my/vsg/41VqzWv0mRmdP16iF87cgul0XSUE8tCo3hJTMEh6GNt-w=TkFD/dash-wv/jitp-linearwm/2309/default_primary.mpd
 
@@ -314,7 +314,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="AstroVinmeen" tvg-name="Astro Vinmeen HD" group-title="AOTG All;Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png" ch-number="202",202 Astro Vinmeen FHD 
+#EXTINF:-1 tvg-id="AstroVinmeen" tvg-name="Astro Vinmeen HD" group-title="AOTG All;Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png" ch-number="202",202 Astro Vinmeen  
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 
@@ -325,17 +325,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
-#EXTINF:-1 tvg-id="SunTV" tvg-name="SUN TV HD" group-title="MALAYSIA" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_SUNTV.png",SUN TV
+#EXTINF:-1 tvg-id="SunTV" tvg-name="SUN TV HD" group-title="Indian" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_SUNTV.png",SUN TV
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
-#EXTINF:-1 tvg-id="StarVijay" tvg-name="Star Vijay HD" group-title="MALAYSIA" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VIJAY2.png",STAR VIJAY
+#KODIPROP:inputstream..license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
+#EXTINF:-1 tvg-id="StarVijay" tvg-name="Star Vijay HD" group-title="Indian" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VIJAY2.png",STAR VIJAY
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
-#EXTINF:-1 tvg-id="ZeeTamilHD" tvg-name="Zee Tamil HD" group-title="MALAYSIA" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_ZEETV.png",ZEE TAMIL
+#EXTINF:-1 tvg-id="Zgroup-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_ZEETV.png",ZEE TAMIL
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 
