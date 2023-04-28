@@ -191,7 +191,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
 #EXTINF:-1 tvg-id="AstroVinmeenHD" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VINMEEN.png" group-title="MALAYSIA",ASTRO VINMEEN
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
+0
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://aqfadtv.xyz/logos/AstroVellithirai.png",203 Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
