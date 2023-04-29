@@ -1,4 +1,4 @@
-#EXTHD 
+#EXTM3U
 url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 refresh="3"
 <!---- #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
@@ -62,11 +62,11 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAsP4m8M0ILT9nvSD2jkFhtA=lkMA/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://linears-playback.astro.com.my/vsg/41h68edbwvPYwE_BM4bpdRg_SvlSllMVyvDXMAxZv2nNI=_yjs/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzzyNeDqvdbtqTnXA-ZNxrBU8=LdHU/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" ch-number="104",104 Astro Ria HD (B)
 #EXTVLCOPT:http-user-agent=AMTVPlayer
-http://51.79.251.116:8080/live/zozo2022/abc12345/18.m3u8?token=GEYOU0ZZQVsaVw8DClUDAVAHXg0EAABbAANWWVQOUQ0GUVYCBQhWBVoQGhJLEUQBUFo5UQVECVMOHxEUQ1xGZgoARAgXBVJTDwMUHBoRXwlUFVwITURDC1IRCUMBCAcJUkZKEFBJFwRKXFdcZwFTElhUAxpbCEYOWh8RDl5mUFwOBQhWFwtBURoeFFlLFRReX0IKVE1EUQtCQVIVVRsOG1FWUwEXHUECV0dYREocFF4TYjUaTURWGkJWXRJZVlobWUYLAUAJQU0aW0VvSgBFEENSB1UEFBFYFAMRTRJUVUE8BwlcW1QAFVFdWEMaXxRVExtEVQ4IWhZZQWwRWV0WA0FWXgoCEx4=
+http://51.79.251.116:8080/live/zozo2022/abc12345/18.m3u8?token=GEYOU0ZZQVsaClUFXAFTUAEFVFkHUQMGAAUBVQIMA1tWB1VQUVJWWQAQGhJLEUQBUFo5UQVECVMOHxEUQ1xGZgoARAgXBVJTDwMUHBoRXwlUFVwITURDC1IRCUMICgQPQUhEV01FBhNWU1pvXABADVJSRAIPE18OGhFcD29dUVQCCgIQDxNTQxQQX0NIRwwKRFsKFEMEWhZEUkcEEgMWCFFQUhAZEwAOTVxCQkFHDEZkZEQUQwNLFlNdQAhfVxYDQQlVRw0TT0NRQWlCXRZCFlRWC10TRAlABhEfQ11YTGYACwhcUFIXCFdcRRICRwdGHRULVw8PRw1EbEMIVBsOG1FcXgUXTA==
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" ch-number="104",104 Astro Ria HD (C)
 http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
@@ -129,7 +129,7 @@ https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNpEZ7Qn2UDmHdSAa
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna HD (B)
 #EXTVLCOPT:http-user-agent=AMTVPlayer
-http://51.79.251.57:8080/live/zozo2022/abc12345/22.m3u8?token=GEYOU0ZZQVsaUQFWDFEDAQABX11ZUFYGUgYFBAFYDF1TBgRTUwUFUloQGhJLEUQBUFo5UQVECVAEHxEUQ1xGZgoARAgXBVJTDwMUHBoRXwlUFVwITURDC1IRCUMBDAALV0ZKEFBJFwRKXFdcZwFTElhUAxpbCEYOWh8RDl5mUFwOBQhWFwtBURoeFFlLFRReX0IKVE1EUQtCQVIVVRsOG1dXUQMXHUECV0dYREocFF4TYjUaTURWGkJWXRJZVlobWUYLAUAJQU0aW0VvSgBFEENSB1UEFBFYFAMRTRJUVUE8BwlcW1QAFVFdWEMaXxRVExtEVQ4IWhZZQWwRWV0WA0FWVgcCEx4=
+http://51.79.251.57:8080/live/zozo2022/abc12345/22.m3u8?token=GEYOU0ZZQVsaVwVRXQAGBQFWV15RAwFRAgEBAFEPBFhUVQACAglaAggQGhJLEUQBUFo5UQVECVAEHxEUQ1xGZgoARAgXBVJTDwMUHBoRXwlUFVwITURDC1IRCUMFDAUJQUhEV01FBhNWU1pvXABADVJSRAIPE18OGhFcD29dUVQCCgIQDxNTQxQQX0NIRwwKRFsKFEMEWhZEUkcEEgMWDVBcVRAZEwAOTVxCQkFHDEZkZEQUQwNLFlNdQAhfVxYDQQlVRw0TT0NRQWlCXRZCFlRWC10TRAlABhEfQ11YTGYACwhcUFIXCFdcRRICRwdGHRULVw8PRw1EbEMIVBsOG1FUUwUXTA==
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna HD (C)
 http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=go_ott
@@ -155,7 +155,7 @@ https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNkEiWXuMoYvr4ZXV
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="AOTG All;Bahasa Malaysia;Movies" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" ch-number="108",108 Astro Citra HD (B)
 #EXTVLCOPT:http-user-agent=AMTVPlayer
-http://51.79.251.116:8080/live/zozo2022/abc12345/27.m3u8?token=GEYOU0ZZQVsaAA5RCwBTXFBSUQxSBAAHAAcABFZbDF9WUABXUFIFVwsQGhJLEUQBUFo5UQVECVABHxEUQ1xGZgoARAgXBVJTDwMUHBoRXwlUFVwITURDC1IRCUMBDgwLVUZKEFBJFwRKXFdcZwFTElhUAxpbCEYOWh8RDl5mUFwOBQhWFwtBURoeFFlLFRReX0IKVE1EUQtCQVIVVRsOG1JSUgoXHUECV0dYREocFF4TYjUaTURWGkJWXRJZVlobWUYLAUAJQU0aW0VvSgBFEENSB1UEFBFYFAMRTRJUVUE8BwlcW1QAFVFdWEMaXxRVExtEVQ4IWhZZQWwRWV0WA0FVUwEEEx4=
+http://51.79.251.116:8080/live/zozo2022/abc12345/27.m3u8?token=GEYOU0ZZQVsaCw9SAARXXVIHVQlZAANQVAAHBQBaBFtXXVcEVlMHAwkQGhJLEUQBUFo5UQVECVABHxEUQ1xGZgoARAgXBVJTDwMUHBoRXwlUFVwITURDC1IRCUMBAQwOUEZKEFBJFwRKXFdcZwFTElhUAxpbCEYOWh8RDl5mUFwOBQhWFwtBURoeFFlLFRReX0IKVE1EUQtCQVIVVRsOG1JcVAUXHUECV0dYREocFF4TYjUaTURWGkJWXRJZVlobWUYLAUAJQU0aW0VvSgBFEENSB1UEFBFYFAMRTRJUVUE8BwlcW1QAFVFdWEMaXxRVExtEVQ4IWhZZQWwRWV0WA0FVUwEEEx4=
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -298,7 +298,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tUFjJhFKE+kGYqT7rzxTKw","kid":"ckmcatRMw32VqQdUIJEREA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png" group-title="AOTG All;Indian" ch-number="201",201 Astro Vaanavil FH
+#EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png" group-title="AOTG All;Indian" ch-number="201",201 Astro Vaanavil FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #https://linears-playback.astro.com.my/vsg/41VqzWv0mRmdP16iF87cgul0XSUE8tCo3hJTMEh6GNt-w=TkFD/dash-wv/jitp-linearwm/2309/default_primary.mpd
 
@@ -306,39 +306,58 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tUFjJhFKE+kGYqT7rzxTKw","kid":"ckmcatRMw32VqQdUIJEREA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png" group-title="AOTG All;Indian" ch-number="201",201 Astro Vaanavil
+#EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png" group-title="AOTG All;Indian" ch-number="201",201 Astro Vaanavil HD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #https://linears-playback.astro.com.my/vsg/41VqzWv0mRmdP16iF87cgul0XSUE8tCo3hJTMEh6GNt-w=TkFD/dash-wv/jitp-linearwm/2309/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2309
-#EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" group-title="group-title="Indian" group-logo="https://aqfadtv.xyz/logos/AstroVaanavil.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VAANAVIL.png",ASTRO VAANAVIL HD
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="AstroVinmeen" tvg-name="Astro Vinmeen HD" group-title="AOTG All;Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png" ch-number="202",202 Astro Vinmeen  
+#EXTINF:-1 tvg-id="AstroVinmeen" tvg-name="Astro Vinmeen HD" group-title="AOTG All;Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png" ch-number="202",202 Astro Vinmeen FHD 
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AstroVinmeen" tvg-name="Astro Vinmeen HD" group-title="AOTG All;Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png" ch-number="202",202 Astro Vinmeen HD 
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://aqfadtv.xyz/logos/AstroVellithirai.png",203 Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5073/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 
-#EXTINF:-1 tvg-id="StarVijay" ch-number="221" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",221 Star Vijay HD
+#EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+
+#EXTINF:-1 tvg-id="StarVijay" ch-number="221" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",221 Star Vijay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
 
-#EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
+#EXTINF:-1 tvg-id="ZeeTamilHD" ch-number="223" group-title="Indian" group-logo="https://aqfadtv.xyz/images/indian.png" tvg-logo="https://aqfadtv.xyz/logos/ZeeTamil.png",223 Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2309
+#EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" group-title="MALAYSIA" group-logo="
+#EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" group-title="Indian" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VAANAVIL.png",ASTRO VAANAVIL
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
+#EXTINF:-1 tvg-id="KTV" ch-number="216" group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" tvg-logo="https://aqfadtv.xyz/logos/KTV.png",216 KTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CE52Vhu6nU866VOs3Tez7Q","kid":"kYrevhCphI1WfcbLWtzlEA"}],"type":"temporary"}
@@ -2816,13 +2835,13 @@ https://vod.go-ott.workers.dev/0:/Collector%20Edition/Scream/Scream.VI.2023.1080
 
 ###[Liar Series]###
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/9365f7db9a734b3eeb0c5.jpg",Liar 2023 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Liar/Liar%20(2023)%20EP1%20MalaySub%20-%20myflm4u.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Liar/Liar%20(2023)%20EP1%20MalaySub%20-%20myflm4u.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/9365f7db9a734b3eeb0c5.jpg",Liar 2023 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Liar/Liar%20(2023)%20EP2%20MalaySub%20-%20BJ.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Liar/Liar%20(2023)%20EP2%20MalaySub%20-%20BJ.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/9365f7db9a734b3eeb0c5.jpg",Liar 2023 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Liar/Liar%20(2023)%20EP3%20MalaySub%20-%20myflm4u.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Liar/Liar%20(2023)%20EP3%20MalaySub%20-%20myflm4u.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/9365f7db9a734b3eeb0c5.jpg",Liar 2023 Episode E04
 #
@@ -2927,859 +2946,859 @@ https://vod.go-ott.workers.dev/0:/T%CE%BDSiri/Demon%20Slayer/S03/Demon_Slayer_S0
 
 ###[Beef Series]###
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNjOGVkYTctYjE1ZS00MTBhLTlkOTAtMGUzODZlNjAxMGM3XkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg",Beef 2023 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Beef/BEEF_2023_S01E01_The_Birds_Don't_Sing,_They_Screech_in_Pain_1080p.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Beef/BEEF_2023_S01E01_The_Birds_Don't_Sing,_They_Screech_in_Pain_1080p.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNjOGVkYTctYjE1ZS00MTBhLTlkOTAtMGUzODZlNjAxMGM3XkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg",Beef 2023 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Beef/BEEF_2023_S01E02_The_Rapture_of_Being_Alive_1080p_NF_WEB_DL_x265.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Beef/BEEF_2023_S01E02_The_Rapture_of_Being_Alive_1080p_NF_WEB_DL_x265.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNjOGVkYTctYjE1ZS00MTBhLTlkOTAtMGUzODZlNjAxMGM3XkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg",Beef 2023 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Beef/BEEF_2023_S01E03_I_Am_Inhabited_By_A_Cry_1080p_NF_WEB_DL_x265_Silence.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Beef/BEEF_2023_S01E03_I_Am_Inhabited_By_A_Cry_1080p_NF_WEB_DL_x265_Silence.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNjOGVkYTctYjE1ZS00MTBhLTlkOTAtMGUzODZlNjAxMGM3XkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg",Beef 2023 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Beef/BEEF_2023_S01E04_Just_Not_All_At_The_Same_Time_1080p_NF_WEB_DL_x265.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Beef/BEEF_2023_S01E04_Just_Not_All_At_The_Same_Time_1080p_NF_WEB_DL_x265.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNjOGVkYTctYjE1ZS00MTBhLTlkOTAtMGUzODZlNjAxMGM3XkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg",Beef 2023 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Beef/BEEF_2023_S01E05_Such_Inward_Secret_Creatures_1080p_NF_WEB_DL_x265.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Beef/BEEF_2023_S01E05_Such_Inward_Secret_Creatures_1080p_NF_WEB_DL_x265.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNjOGVkYTctYjE1ZS00MTBhLTlkOTAtMGUzODZlNjAxMGM3XkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg",Beef 2023 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Beef/BEEF_2023_S01E06_We_Draw_A_Magic_Circle_1080p_NF_WEB_DL_x265_Silence.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Beef/BEEF_2023_S01E06_We_Draw_A_Magic_Circle_1080p_NF_WEB_DL_x265_Silence.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNjOGVkYTctYjE1ZS00MTBhLTlkOTAtMGUzODZlNjAxMGM3XkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg",Beef 2023 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Beef/BEEF_2023_S01E07_I_Am_A_Cage_1080p_NF_WEB_DL_x265_Silence.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Beef/BEEF_2023_S01E07_I_Am_A_Cage_1080p_NF_WEB_DL_x265_Silence.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNjOGVkYTctYjE1ZS00MTBhLTlkOTAtMGUzODZlNjAxMGM3XkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg",Beef 2023 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Beef/BEEF_2023_S01E08_The_Drama_of_Original_Choice_1080p_NF_WEB_DL_x265.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Beef/BEEF_2023_S01E08_The_Drama_of_Original_Choice_1080p_NF_WEB_DL_x265.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNjOGVkYTctYjE1ZS00MTBhLTlkOTAtMGUzODZlNjAxMGM3XkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg",Beef 2023 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Beef/BEEF_2023_S01E09_The_Great_Fabricator_1080p_NF_WEB_DL_x265_Silence.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Beef/BEEF_2023_S01E09_The_Great_Fabricator_1080p_NF_WEB_DL_x265_Silence.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNjOGVkYTctYjE1ZS00MTBhLTlkOTAtMGUzODZlNjAxMGM3XkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg",Beef 2023 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Beef/BEEF_2023_S01E10_Figures_of_Light_1080p_NF_WEB_DL_x265_Silence.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Beef/BEEF_2023_S01E10_Figures_of_Light_1080p_NF_WEB_DL_x265_Silence.mkv
 ###[Beef Series]###
 
 ###[Queenmaker Series]###
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzYjAxMWUtOWI3Ny00YzRiLWI4NzUtOGMzMTliMjZmZWMyXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Queenmaker 2023 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Queenmaker/%5BKR%5D%20E01%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Queenmaker/%5BKR%5D%20E01%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzYjAxMWUtOWI3Ny00YzRiLWI4NzUtOGMzMTliMjZmZWMyXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Queenmaker 2023 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Queenmaker/%5BKR%5D%20E02%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Queenmaker/%5BKR%5D%20E02%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzYjAxMWUtOWI3Ny00YzRiLWI4NzUtOGMzMTliMjZmZWMyXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Queenmaker 2023 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Queenmaker/%5BKR%5D%20E03%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Queenmaker/%5BKR%5D%20E03%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzYjAxMWUtOWI3Ny00YzRiLWI4NzUtOGMzMTliMjZmZWMyXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Queenmaker 2023 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Queenmaker/%5BKR%5D%20E04%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Queenmaker/%5BKR%5D%20E04%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzYjAxMWUtOWI3Ny00YzRiLWI4NzUtOGMzMTliMjZmZWMyXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Queenmaker 2023 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Queenmaker/%5BKR%5D%20E05%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Queenmaker/%5BKR%5D%20E05%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzYjAxMWUtOWI3Ny00YzRiLWI4NzUtOGMzMTliMjZmZWMyXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Queenmaker 2023 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Queenmaker/%5BKR%5D%20E06%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Queenmaker/%5BKR%5D%20E06%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzYjAxMWUtOWI3Ny00YzRiLWI4NzUtOGMzMTliMjZmZWMyXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Queenmaker 2023 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Queenmaker/%5BKR%5D%20E07%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Queenmaker/%5BKR%5D%20E07%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzYjAxMWUtOWI3Ny00YzRiLWI4NzUtOGMzMTliMjZmZWMyXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Queenmaker 2023 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Queenmaker/%5BKR%5D%20E08%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Queenmaker/%5BKR%5D%20E08%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzYjAxMWUtOWI3Ny00YzRiLWI4NzUtOGMzMTliMjZmZWMyXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Queenmaker 2023 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Queenmaker/%5BKR%5D%20E09%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Queenmaker/%5BKR%5D%20E09%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzYjAxMWUtOWI3Ny00YzRiLWI4NzUtOGMzMTliMjZmZWMyXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Queenmaker 2023 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Queenmaker/%5BKR%5D%20E10%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Queenmaker/%5BKR%5D%20E10%20Queenmaker%202023%201080p%20MS%20@Teum3.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzYjAxMWUtOWI3Ny00YzRiLWI4NzUtOGMzMTliMjZmZWMyXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Queenmaker 2023 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Queenmaker/%5BKR%5D%20E11%20Queenmaker%20END%202023%201080p%20MS%20@Teum3.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Queenmaker/%5BKR%5D%20E11%20Queenmaker%20END%202023%201080p%20MS%20@Teum3.mkv
 ###[Queenmaker Series]###
 
 ###[Penggali Kubur dan Miss Sleepwalker Series]###
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/c80d0b5b7c73271dad905.jpg",Penggali Kubur dan Miss Sleepwalker Episod E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP1_1080p_WEBDL_AAC_x264_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP1_1080p_WEBDL_AAC_x264_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/c80d0b5b7c73271dad905.jpg",Penggali Kubur dan Miss Sleepwalker Episod E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP2_1080p_WEBDL_AAC_x264_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP2_1080p_WEBDL_AAC_x264_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/c80d0b5b7c73271dad905.jpg",Penggali Kubur dan Miss Sleepwalker Episod E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP3_1080p_WEB_DL_AAC_x264_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP3_1080p_WEB_DL_AAC_x264_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/c80d0b5b7c73271dad905.jpg",Penggali Kubur dan Miss Sleepwalker Episod E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP4_1080p_WEB_DL_AAC_x264_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP4_1080p_WEB_DL_AAC_x264_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/c80d0b5b7c73271dad905.jpg",Penggali Kubur dan Miss Sleepwalker Episod E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP5_1080p_WEB_DL_AAC_x264_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP5_1080p_WEB_DL_AAC_x264_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/c80d0b5b7c73271dad905.jpg",Penggali Kubur dan Miss Sleepwalker Episod E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP6_1080p_WEB_DL_AAC_x264_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP6_1080p_WEB_DL_AAC_x264_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/c80d0b5b7c73271dad905.jpg",Penggali Kubur dan Miss Sleepwalker Episod E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP7_1080p_WEB_DL_AAC_x264_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP7_1080p_WEB_DL_AAC_x264_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/c80d0b5b7c73271dad905.jpg",Penggali Kubur dan Miss Sleepwalker Episod E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP8_1080p_WEB_DL_AAC_x264_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali_Kubur_dan_Miss_Sleepwalker_EP8_1080p_WEB_DL_AAC_x264_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/c80d0b5b7c73271dad905.jpg",Penggali Kubur dan Miss Sleepwalker Episod E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali.Kubur.dan.Miss.Sleepwalker.EP9.720p.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali.Kubur.dan.Miss.Sleepwalker.EP9.720p.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/c80d0b5b7c73271dad905.jpg",Penggali Kubur dan Miss Sleepwalker Episod E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali.Kubur.dan.Miss.Sleepwalker.EP10.720p.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Penggali%20Kubur%20dan%20Miss%20Sleepwalker/Penggali.Kubur.dan.Miss.Sleepwalker.EP10.720p.AAC.x264-KSO.mp4
 ###[Penggali Kubur dan Miss Sleepwalker Series]###
 
 ###[KL Gangster: Underworld Series]###
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/68f1766c53906bd5c6f86.png",KL Gangster: Underworld Musim 1 Episod E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22%20KL%20Gangster%20Underworld%20(2018)%20S1%20EP01%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22%20KL%20Gangster%20Underworld%20(2018)%20S1%20EP01%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/68f1766c53906bd5c6f86.png",KL Gangster: Underworld Musim 1 Episod E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22%20KL%20Gangster%20Underworld%20(2018)%20S1%20EP02%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22%20KL%20Gangster%20Underworld%20(2018)%20S1%20EP02%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/68f1766c53906bd5c6f86.png",KL Gangster: Underworld Musim 1 Episod E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22%20KL%20Gangster%20Underworld%20(2018)%20S1%20EP03%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22%20KL%20Gangster%20Underworld%20(2018)%20S1%20EP03%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/68f1766c53906bd5c6f86.png",KL Gangster: Underworld Musim 1 Episod E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22%20KL%20Gangster%20Underworld%20(2018)%20S1%20EP04%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22%20KL%20Gangster%20Underworld%20(2018)%20S1%20EP04%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/68f1766c53906bd5c6f86.png",KL Gangster: Underworld Musim 1 Episod E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22%20KL%20Gangster%20Underworld%20(2018)%20S1%20EP05%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22%20KL%20Gangster%20Underworld%20(2018)%20S1%20EP05%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/68f1766c53906bd5c6f86.png",KL Gangster: Underworld Musim 1 Episod E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22_KL_Gangster_Underworld_2018_S1_EP06ends_Akhir_Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%201/%2523NPRH22_KL_Gangster_Underworld_2018_S1_EP06ends_Akhir_Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FjODYwNDktY2M2Zi00Y2JlLTk0NWYtY2ZjNzdhNzdkZTZjXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",KL Gangster: Underworld Musim 2 Episod E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP01%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP01%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FjODYwNDktY2M2Zi00Y2JlLTk0NWYtY2ZjNzdhNzdkZTZjXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",KL Gangster: Underworld Musim 2 Episod E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP02%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP02%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FjODYwNDktY2M2Zi00Y2JlLTk0NWYtY2ZjNzdhNzdkZTZjXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",KL Gangster: Underworld Musim 2 Episod E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP03%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP03%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FjODYwNDktY2M2Zi00Y2JlLTk0NWYtY2ZjNzdhNzdkZTZjXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",KL Gangster: Underworld Musim 2 Episod E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP04%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP04%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FjODYwNDktY2M2Zi00Y2JlLTk0NWYtY2ZjNzdhNzdkZTZjXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",KL Gangster: Underworld Musim 2 Episod E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP05%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP05%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FjODYwNDktY2M2Zi00Y2JlLTk0NWYtY2ZjNzdhNzdkZTZjXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",KL Gangster: Underworld Musim 2 Episod E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP06%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP06%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FjODYwNDktY2M2Zi00Y2JlLTk0NWYtY2ZjNzdhNzdkZTZjXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",KL Gangster: Underworld Musim 2 Episod E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP07%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22%20KL%20Gangster%20Underworld%202%20(2020)%20S2%20EP07%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FjODYwNDktY2M2Zi00Y2JlLTk0NWYtY2ZjNzdhNzdkZTZjXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",KL Gangster: Underworld Musim 2 Episod E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22_KL_Gangster_Underworld_2_2020_S2_EP08ends_Akhir_Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/KL%20Gangster:%20Underworld/Musim%202/%2523NPRH22_KL_Gangster_Underworld_2_2020_S2_EP08ends_Akhir_Malay.mp4
 ###[KL Gangster: Underworld Series]###
 
 ###[Revenge of Others 2022 Series]###
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E01%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E01%20720p%20MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E02%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E02%20720p%20MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E03%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E03%20720p%20MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E04%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E04%20720p%20MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E05%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E05%20720p%20MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E06%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E06%20720p%20MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E07%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E07%20720p%20MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E08%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E08%20720p%20MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E09%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E09%20720p%20MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E10%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E10%20720p%20MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E11%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E11%20720p%20MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzOTNjNzUtODQ5Mi00OWExLWFjYzEtZGY4ZGNiMjc1MmY4XkEyXkFqcGdeQXVyMTU5NjMxOTI0._V1_FMjpg_UX1000_.jpg",Revenge of Others 2022 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E12%20END%20720p%20MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Revenge%20of%20Others%202022/Revenge%20of%20Others%20(2022)%20S01E12%20END%20720p%20MalaySub.mp4
 ###[Revenge of Others 2022 Series]###
 
 ###[Reborn Rich Series]###
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn%20Rich.EP1.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn%20Rich.EP1.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP2.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP2.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP3.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP3.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP4.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP4.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP5.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP5.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP6.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP6.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP7.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP7.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP8.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP8.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP9.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP9.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP10.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP10.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP11.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP11.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP12.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP12.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP13.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP13.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E14
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP14.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP14.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E15
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP15.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP15.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",Reborn Rich 2022 Episode E16
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Reborn%20Rich%202022/Reborn.Rich.EP16.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Reborn%20Rich%202022/Reborn.Rich.EP16.720p.WEB-DL.Malay.@ceritasarikatamelayu.mp4
 ###[Reborn Rich Series]###
 
 ###[Locke & Key Series]###
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNTA0ZDEtMDZiMy00NjQ2LWExMjEtNzUyNjMxNWQwY2JlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_FMjpg_UY1000_.jpg",Locke & Key Seasons 1 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S01/Locke.and.Key.S01E01.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S01/Locke.and.Key.S01E01.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNTA0ZDEtMDZiMy00NjQ2LWExMjEtNzUyNjMxNWQwY2JlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_FMjpg_UY1000_.jpg",Locke & Key Seasons 1 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S01/Locke.and.Key.S01E02.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S01/Locke.and.Key.S01E02.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNTA0ZDEtMDZiMy00NjQ2LWExMjEtNzUyNjMxNWQwY2JlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_FMjpg_UY1000_.jpg",Locke & Key Seasons 1 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S01/Locke.and.Key.S01E03.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S01/Locke.and.Key.S01E03.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNTA0ZDEtMDZiMy00NjQ2LWExMjEtNzUyNjMxNWQwY2JlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_FMjpg_UY1000_.jpg",Locke & Key Seasons 1 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S01/Locke.and.Key.S01E04.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S01/Locke.and.Key.S01E04.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNTA0ZDEtMDZiMy00NjQ2LWExMjEtNzUyNjMxNWQwY2JlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_FMjpg_UY1000_.jpg",Locke & Key Seasons 1 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S01/Locke.and.Key.S01E05.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S01/Locke.and.Key.S01E05.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNTA0ZDEtMDZiMy00NjQ2LWExMjEtNzUyNjMxNWQwY2JlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_FMjpg_UY1000_.jpg",Locke & Key Seasons 1 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S01/Locke.and.Key.S01E06.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S01/Locke.and.Key.S01E06.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNTA0ZDEtMDZiMy00NjQ2LWExMjEtNzUyNjMxNWQwY2JlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_FMjpg_UY1000_.jpg",Locke & Key Seasons 1 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S01/Locke.and.Key.S01E07.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S01/Locke.and.Key.S01E07.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNTA0ZDEtMDZiMy00NjQ2LWExMjEtNzUyNjMxNWQwY2JlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_FMjpg_UY1000_.jpg",Locke & Key Seasons 1 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S01/Locke.and.Key.S01E08.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S01/Locke.and.Key.S01E08.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNTA0ZDEtMDZiMy00NjQ2LWExMjEtNzUyNjMxNWQwY2JlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_FMjpg_UY1000_.jpg",Locke & Key Seasons 1 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S01/Locke.and.Key.S01E09.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S01/Locke.and.Key.S01E09.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNTA0ZDEtMDZiMy00NjQ2LWExMjEtNzUyNjMxNWQwY2JlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_FMjpg_UY1000_.jpg",Locke & Key Seasons 1 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S01/Locke.and.Key.S01E10.Final.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S01/Locke.and.Key.S01E10.Final.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Locke & Key Seasons 2 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S02/Locke.and.Key.S02E01.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S02/Locke.and.Key.S02E01.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Locke & Key Seasons 2 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S02/Locke.and.Key.S02E02.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S02/Locke.and.Key.S02E02.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Locke & Key Seasons 2 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S02/Locke.and.Key.S02E03.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S02/Locke.and.Key.S02E03.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Locke & Key Seasons 2 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S02/Locke.and.Key.S02E04.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S02/Locke.and.Key.S02E04.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Locke & Key Seasons 2 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S02/Locke.and.Key.S02E05.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S02/Locke.and.Key.S02E05.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Locke & Key Seasons 2 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S02/Locke.and.Key.S02E06.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S02/Locke.and.Key.S02E06.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Locke & Key Seasons 2 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S02/Locke.and.Key.S02E07.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S02/Locke.and.Key.S02E07.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Locke & Key Seasons 2 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S02/Locke.and.Key.S02E08.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S02/Locke.and.Key.S02E08.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Locke & Key Seasons 2 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S02/Locke.and.Key.S02E09.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S02/Locke.and.Key.S02E09.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Locke & Key Seasons 2 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Locke%20and%20Key/S02/Locke.and.Key.S02E10.Final.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Locke%20and%20Key/S02/Locke.and.Key.S02E10.Final.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 ###[Locke & Key Series]###
 
 ###[Keep Breathing 2022 Series]###
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcxYWIyYzMtYWVmOC00ZTRmLWIxNGQtYjc2NjQ5NDAzNzU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",Keep Breathing 2022 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Keep%20Breathing%202022/Keep_Breathing_S01E01_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Keep%20Breathing%202022/Keep_Breathing_S01E01_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcxYWIyYzMtYWVmOC00ZTRmLWIxNGQtYjc2NjQ5NDAzNzU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",Keep Breathing 2022 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Keep%20Breathing%202022/Keep_Breathing_S01E02_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Keep%20Breathing%202022/Keep_Breathing_S01E02_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcxYWIyYzMtYWVmOC00ZTRmLWIxNGQtYjc2NjQ5NDAzNzU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",Keep Breathing 2022 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Keep%20Breathing%202022/Keep_Breathing_S01E03_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Keep%20Breathing%202022/Keep_Breathing_S01E03_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcxYWIyYzMtYWVmOC00ZTRmLWIxNGQtYjc2NjQ5NDAzNzU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",Keep Breathing 2022 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Keep%20Breathing%202022/Keep_Breathing_S01E04_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Keep%20Breathing%202022/Keep_Breathing_S01E04_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcxYWIyYzMtYWVmOC00ZTRmLWIxNGQtYjc2NjQ5NDAzNzU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",Keep Breathing 2022 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Keep%20Breathing%202022/Keep_Breathing_S01E05_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Keep%20Breathing%202022/Keep_Breathing_S01E05_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcxYWIyYzMtYWVmOC00ZTRmLWIxNGQtYjc2NjQ5NDAzNzU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",Keep Breathing 2022 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Keep%20Breathing%202022/Keep_Breathing_S01E06_Final_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Keep%20Breathing%202022/Keep_Breathing_S01E06_Final_720p_WEBDL_6CH_DDP5_1_Atmos_H_264_MSMuxed.mp4
 ###[Keep Breathing 2022 Series]###
 
 ###[Glitch 2022 Series]###
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZWRiOTYtMDAxMC00Yjg3LWEzZGQtNGIzYzVlNWNmMWY1XkEyXkFqcGdeQXVyMTA2NTg2Njg2._V1_FMjpg_UX1000_.jpg",Glitch 2022 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E01.720p.NF.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E01.720p.NF.WEB-DL.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZWRiOTYtMDAxMC00Yjg3LWEzZGQtNGIzYzVlNWNmMWY1XkEyXkFqcGdeQXVyMTA2NTg2Njg2._V1_FMjpg_UX1000_.jpg",Glitch 2022 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E02.720p.NF.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E02.720p.NF.WEB-DL.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZWRiOTYtMDAxMC00Yjg3LWEzZGQtNGIzYzVlNWNmMWY1XkEyXkFqcGdeQXVyMTA2NTg2Njg2._V1_FMjpg_UX1000_.jpg",Glitch 2022 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E03.720p.NF.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E03.720p.NF.WEB-DL.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZWRiOTYtMDAxMC00Yjg3LWEzZGQtNGIzYzVlNWNmMWY1XkEyXkFqcGdeQXVyMTA2NTg2Njg2._V1_FMjpg_UX1000_.jpg",Glitch 2022 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E04.720p.NF.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E04.720p.NF.WEB-DL.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZWRiOTYtMDAxMC00Yjg3LWEzZGQtNGIzYzVlNWNmMWY1XkEyXkFqcGdeQXVyMTA2NTg2Njg2._V1_FMjpg_UX1000_.jpg",Glitch 2022 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E05.720p.NF.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E05.720p.NF.WEB-DL.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZWRiOTYtMDAxMC00Yjg3LWEzZGQtNGIzYzVlNWNmMWY1XkEyXkFqcGdeQXVyMTA2NTg2Njg2._V1_FMjpg_UX1000_.jpg",Glitch 2022 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E06.720p.NF.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E06.720p.NF.WEB-DL.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZWRiOTYtMDAxMC00Yjg3LWEzZGQtNGIzYzVlNWNmMWY1XkEyXkFqcGdeQXVyMTA2NTg2Njg2._V1_FMjpg_UX1000_.jpg",Glitch 2022 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E07.720p.NF.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E07.720p.NF.WEB-DL.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZWRiOTYtMDAxMC00Yjg3LWEzZGQtNGIzYzVlNWNmMWY1XkEyXkFqcGdeQXVyMTA2NTg2Njg2._V1_FMjpg_UX1000_.jpg",Glitch 2022 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E08.720p.NF.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E08.720p.NF.WEB-DL.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZWRiOTYtMDAxMC00Yjg3LWEzZGQtNGIzYzVlNWNmMWY1XkEyXkFqcGdeQXVyMTA2NTg2Njg2._V1_FMjpg_UX1000_.jpg",Glitch 2022 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E09.720p.NF.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E09.720p.NF.WEB-DL.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZWRiOTYtMDAxMC00Yjg3LWEzZGQtNGIzYzVlNWNmMWY1XkEyXkFqcGdeQXVyMTA2NTg2Njg2._V1_FMjpg_UX1000_.jpg",Glitch 2022 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E10.720p.NF.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Glitch/%5Bon9.stream%5DGlitch.2022.KOREAN.S01E10.720p.NF.WEB-DL.mp4
 ###[Glitch 2022 Series]###
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E01%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E01%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E02%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E02%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E03%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E03%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E04%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E04%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E05%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E05%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E06%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E06%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E07%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E07%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E08%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E08%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E09%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E09%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E10%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E10%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E11%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E11%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E12%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E12%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E13%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E13%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E14
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E14%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E14%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E15
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E15%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E15%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E16
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E16%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E16%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E17
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E17%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E17%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E18
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E18%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E18%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E19
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E19%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E19%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E20
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E20%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E20%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E21
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E21%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E21%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E22
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E22%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E22%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E23
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E23%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E23%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E24
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E24%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E24%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E25
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E25%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E25%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20@Fanszz2.mkv
 
 #EXTINF:-1 type="series"  tvg-logo="https://telegra.ph/file/91663d22b50c32b5df409.jpg",Ruk Woon Wai Jao Chai Kob 2021 Episode E26
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E26%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20END%20@Fanszz2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ruk%20Woon%20Wai%20Jao%20Chai%20Kob/%5BTH%5D%20E26%20Rak%20Woon%20Wai%20Jao%20Chai%20Kob%20END%20@Fanszz2.mkv
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E01_1080p_WEB_DL_DDP5_1_HEVC.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E01_1080p_WEB_DL_DDP5_1_HEVC.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E02_1080p_WEB_DL_DDP5_1_HEVC.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E02_1080p_WEB_DL_DDP5_1_HEVC.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E03_1080p_WEB_DL_DDP5_1_HEVC.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E03_1080p_WEB_DL_DDP5_1_HEVC.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E04_1080p_WEB_DL_DDP5_1_HEVC.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E04_1080p_WEB_DL_DDP5_1_HEVC.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E05_1080p_WEB_DL_DDP5_1_HEVC.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E05_1080p_WEB_DL_DDP5_1_HEVC.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E06_1080p_WEB_DL_DDP5_1_HEVC.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E06_1080p_WEB_DL_DDP5_1_HEVC.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E07_1080p_WEB_DL_DDP5_1_HEVC.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E07_1080p_WEB_DL_DDP5_1_HEVC.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E08_1080p_WEB_DL_DDP5_1_HEVC.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E08_1080p_WEB_DL_DDP5_1_HEVC.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E09_1080p_WEB_DL_DDP5_1_HEVC.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E09_1080p_WEB_DL_DDP5_1_HEVC.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E10_1080p_WEB_DL_DDP5_1_HEVC.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E10_1080p_WEB_DL_DDP5_1_HEVC.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E11_1080p_WEB_DL_DDP5_1_HEVC.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E11_1080p_WEB_DL_DDP5_1_HEVC.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/41c31938f6ce1f9e3c72d.jpg",From Me to You: Kimi ni Todoke 2023 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E12_END_1080p_WEB_DL_DDP5.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/From%20Me%20to%20You:%20Kimi%20ni%20Todoke/From_Me_to_You_Kimi_ni_Todoke_2023_S01E12_END_1080p_WEB_DL_DDP5.mp4
 
 ###[A Model Family Series]###
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDNhOGUtYTIxNC00NzExLWI4OGEtYmM3NTRiOTM3YjE3XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_FMjpg_UX1000_.jpg",A Model Family 2022 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/A%20Model%20Family/A.Model.Family.S01E01.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/A%20Model%20Family/A.Model.Family.S01E01.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDNhOGUtYTIxNC00NzExLWI4OGEtYmM3NTRiOTM3YjE3XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_FMjpg_UX1000_.jpg",A Model Family 2022 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/A%20Model%20Family/A.Model.Family.S01E02.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/A%20Model%20Family/A.Model.Family.S01E02.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDNhOGUtYTIxNC00NzExLWI4OGEtYmM3NTRiOTM3YjE3XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_FMjpg_UX1000_.jpg",A Model Family 2022 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/A%20Model%20Family/A.Model.Family.S01E03.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/A%20Model%20Family/A.Model.Family.S01E03.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDNhOGUtYTIxNC00NzExLWI4OGEtYmM3NTRiOTM3YjE3XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_FMjpg_UX1000_.jpg",A Model Family 2022 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/A%20Model%20Family/A.Model.Family.S01E04.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/A%20Model%20Family/A.Model.Family.S01E04.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDNhOGUtYTIxNC00NzExLWI4OGEtYmM3NTRiOTM3YjE3XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_FMjpg_UX1000_.jpg",A Model Family 2022 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/A%20Model%20Family/A.Model.Family.S01E05.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/A%20Model%20Family/A.Model.Family.S01E05.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDNhOGUtYTIxNC00NzExLWI4OGEtYmM3NTRiOTM3YjE3XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_FMjpg_UX1000_.jpg",A Model Family 2022 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/A%20Model%20Family/A.Model.Family.S01E06.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/A%20Model%20Family/A.Model.Family.S01E06.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDNhOGUtYTIxNC00NzExLWI4OGEtYmM3NTRiOTM3YjE3XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_FMjpg_UX1000_.jpg",A Model Family 2022 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/A%20Model%20Family/A.Model.Family.S01E07.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/A%20Model%20Family/A.Model.Family.S01E07.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDNhOGUtYTIxNC00NzExLWI4OGEtYmM3NTRiOTM3YjE3XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_FMjpg_UX1000_.jpg",A Model Family 2022 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/A%20Model%20Family/A.Model.Family.S01E08.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/A%20Model%20Family/A.Model.Family.S01E08.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDNhOGUtYTIxNC00NzExLWI4OGEtYmM3NTRiOTM3YjE3XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_FMjpg_UX1000_.jpg",A Model Family 2022 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/A%20Model%20Family/A.Model.Family.S01E09.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/A%20Model%20Family/A.Model.Family.S01E09.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5NDNhOGUtYTIxNC00NzExLWI4OGEtYmM3NTRiOTM3YjE3XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_FMjpg_UX1000_.jpg",A Model Family 2022 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/A%20Model%20Family/A.Model.Family.S01E10.Final.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/A%20Model%20Family/A.Model.Family.S01E10.Final.1080p.WEBDL.6CH.Atmos.Muxed-KSO.mp4
 ###[A Model Family Series]###
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E01.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E01.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E02.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E02.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E03.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E03.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E04.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E04.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E05.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E05.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E06.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E06.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E07.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E07.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E08.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E08.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E09.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E09.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E10.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E10.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E11.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E11.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E12.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E12.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E13.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E13.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E14
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E14.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E14.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E15
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E15.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E15.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/3b673bcd4d92bd5b324c4.jpg",There is no Goo Pil Soo 2022 Episode E16
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E16.Final.1080p.WEBDL.MalayMuxed-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Never%20Give%20Up%20Korea/Never.Give.Up.S01E16.Final.1080p.WEBDL.MalayMuxed-KSO.mp4
 
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/f3860b03c62bf1c799843.jpg",Unseen 2023 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Unseen/Unseen.2023.S01E01.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Unseen/Unseen.2023.S01E01.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/f3860b03c62bf1c799843.jpg",Unseen 2023 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Unseen/Unseen.2023.S01E02.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Unseen/Unseen.2023.S01E02.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/f3860b03c62bf1c799843.jpg",Unseen 2023 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Unseen/Unseen.2023.S01E03.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Unseen/Unseen.2023.S01E03.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/f3860b03c62bf1c799843.jpg",Unseen 2023 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Unseen/Unseen.2023.S01E04.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Unseen/Unseen.2023.S01E04.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/f3860b03c62bf1c799843.jpg",Unseen 2023 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Unseen/Unseen.2023.S01E05.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Unseen/Unseen.2023.S01E05.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/f3860b03c62bf1c799843.jpg",Unseen 2023 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Unseen/Unseen.2023.S01E06.END.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Unseen/Unseen.2023.S01E06.END.1080p.WEB.DL.DDP5.1.HDR10.HEVC-KSO.mp4
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/7e27181e5c23796ef2bea.jpg",Travelawak Projek Bapak Bapak Episod E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Travelawak%20Projek%20Bapak%20Bapak/Travelawak_Projek_Bapak_Bapak_S01E01_1080p_AOTG_WEB_DL_DD5_1_H264.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Travelawak%20Projek%20Bapak%20Bapak/Travelawak_Projek_Bapak_Bapak_S01E01_1080p_AOTG_WEB_DL_DD5_1_H264.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/7e27181e5c23796ef2bea.jpg",Travelawak Projek Bapak Bapak Episod E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Travelawak%20Projek%20Bapak%20Bapak/Travelawak_Projek_Bapak_Bapak_S01E02_1080p_AOTG_WEB_DL_DD5_1_H264.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Travelawak%20Projek%20Bapak%20Bapak/Travelawak_Projek_Bapak_Bapak_S01E02_1080p_AOTG_WEB_DL_DD5_1_H264.mkv
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP1.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP1.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP2.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP2.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP3.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP3.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP4.1080p.WEB.DL.AAC.x264-KSO
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP4.1080p.WEB.DL.AAC.x264-KSO
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP5.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP5.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP6.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP6.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP7.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP7.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP8.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP8.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP9.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP9.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP10.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP10.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP11.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/Jaga.Aku.Selamanya.2023.EP11.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/on9_streamJaga_Aku_Selamanya_EP12_1080p_TONTON_WEB_DL_x264_AAC_KIKI.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/on9_streamJaga_Aku_Selamanya_EP12_1080p_TONTON_WEB_DL_x264_AAC_KIKI.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/8314acc9ea613b35c8d56.jpg",Jaga Aku Selamanya Episod E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Jaga.Aku%20Selamanya/on9_streamJaga_Aku_Selamanya_EP13_1080p_TONTON_WEB_DL_x264_AAC_KIKI.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Jaga.Aku%20Selamanya/on9_streamJaga_Aku_Selamanya_EP13_1080p_TONTON_WEB_DL_x264_AAC_KIKI.mkv
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2001.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2001.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2002.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2002.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2003.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2003.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2004.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2004.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2005%20HDTV@KT.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2005%20HDTV@KT.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2006.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2006.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2007.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2007.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2008.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2008.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2009.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/%5BKM%5D%20Bidadari%20Kiriman%20Tuhan%20Episod%2009.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2010.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2010.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2011.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2011.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2012.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2012.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2013.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2013.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E14
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2014.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2014.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E15
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2015.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2015.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E16
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2016.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2016.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E17
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2017.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2017.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E18
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2018.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2018.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E19
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2019.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2019.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E20
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2020.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2020.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E21
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2021.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2021.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E22
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2022.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2022.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E23
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2023.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2023.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E24
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2024.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2024.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/4a292a13930473a300981.png",Bidadari Kiriman Tuhan Episod E25
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2025.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Bidadari%20Kiriman%20Tuhan/Bidadari%20Kiriman%20Tuhan%20Episod%2025.mp4
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRkNzU0MjQtMDFjOS00MjZkLTkyZjctODQzODVmNWY5NzBjXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Duty After School Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Duty%20After%20School/Duty_After_School_2023_S01E01_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Duty%20After%20School/Duty_After_School_2023_S01E01_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRkNzU0MjQtMDFjOS00MjZkLTkyZjctODQzODVmNWY5NzBjXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Duty After School Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Duty%20After%20School/Duty_After_School_2023_S01E02_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Duty%20After%20School/Duty_After_School_2023_S01E02_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRkNzU0MjQtMDFjOS00MjZkLTkyZjctODQzODVmNWY5NzBjXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Duty After School Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Duty%20After%20School/Duty_After_School_2023_S01E03_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Duty%20After%20School/Duty_After_School_2023_S01E03_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRkNzU0MjQtMDFjOS00MjZkLTkyZjctODQzODVmNWY5NzBjXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Duty After School Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Duty%20After%20School/Duty_After_School_2023_S01E04_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Duty%20After%20School/Duty_After_School_2023_S01E04_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRkNzU0MjQtMDFjOS00MjZkLTkyZjctODQzODVmNWY5NzBjXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Duty After School Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Duty%20After%20School/Duty_After_School_2023_S01E05_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Duty%20After%20School/Duty_After_School_2023_S01E05_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRkNzU0MjQtMDFjOS00MjZkLTkyZjctODQzODVmNWY5NzBjXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",Duty After School Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Duty%20After%20School/Duty_After_School_2023_S01E06_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Duty%20After%20School/Duty_After_School_2023_S01E06_1080p_WEB_DL_AAC_x264_MultiSub_KSO.mp4
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg", The Last of Us 2023 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E01.1080p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E01.1080p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg", The Last of Us 2023 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E02.1080p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E02.1080p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg", The Last of Us 2023 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E03.1080p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E03.1080p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg", The Last of Us 2023 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E04.1080p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E04.1080p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg", The Last of Us 2023 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E05.1080p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E05.1080p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg", The Last of Us 2023 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E06.1080p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E06.1080p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg", The Last of Us 2023 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E07.1080p.WEB-DL.MalaySuB.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E07.1080p.WEB-DL.MalaySuB.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg", The Last of Us 2023 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E08.1080p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E08.1080p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg", The Last of Us 2023 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E09.1080p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Last%20Of%20Us/The.Last.of.Us.2023.S01E09.1080p.WEB-DL.MalaySub.mp4
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KGRRD_Series_IVP_LAND_672x378_202338_17911.jpg", Sepahtu Reunion Al Puasa 2023 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Sepahtu.Reunion%20Al%20Puasa%202023/Sepahtu.Reunion.Al.Puasa.S06E01.1080p.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Sepahtu.Reunion%20Al%20Puasa%202023/Sepahtu.Reunion.Al.Puasa.S06E01.1080p.WEB-DL.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KGRRD_Series_IVP_LAND_672x378_202338_17911.jpg", Sepahtu Reunion Al Puasa 2023 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Sepahtu.Reunion%20Al%20Puasa%202023/Sepahtu.Reunion.Al.Puasa.S06E02.1080p.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Sepahtu.Reunion%20Al%20Puasa%202023/Sepahtu.Reunion.Al.Puasa.S06E02.1080p.WEB-DL.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KGRRD_Series_IVP_LAND_672x378_202338_17911.jpg", Sepahtu Reunion Al Puasa 2023 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Sepahtu.Reunion%20Al%20Puasa%202023/Sepahtu.Reunion.Al.Puasa.S06E03.1080p.WEB-DL-OPET.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Sepahtu.Reunion%20Al%20Puasa%202023/Sepahtu.Reunion.Al.Puasa.S06E03.1080p.WEB-DL-OPET.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KGRRD_Series_IVP_LAND_672x378_202338_17911.jpg", Sepahtu Reunion Al Puasa 2023 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Sepahtu.Reunion%20Al%20Puasa%202023/Sepahtu.Reunion.Al.Puasa.S06E04.1080p.WEB-DL.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Sepahtu.Reunion%20Al%20Puasa%202023/Sepahtu.Reunion.Al.Puasa.S06E04.1080p.WEB-DL.mp4
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" group-logo="https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",The Night Agent Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Night%20Agent%202023/The.Night.Agent.S01E01.720p.NF.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Night%20Agent%202023/The.Night.Agent.S01E01.720p.NF.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",The Night Agent Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Night%20Agent%202023/The.Night.Agent.S01E02.720p.NF.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Night%20Agent%202023/The.Night.Agent.S01E02.720p.NF.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",The Night Agent Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Night%20Agent%202023/The.Night.Agent.S01E03.720p.NF.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Night%20Agent%202023/The.Night.Agent.S01E03.720p.NF.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",The Night Agent Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Night%20Agent%202023/The.Night.Agent.S01E04.720p.NF.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Night%20Agent%202023/The.Night.Agent.S01E04.720p.NF.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",The Night Agent Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Night%20Agent%202023/The.Night.Agent.S01E05.720p.NF.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Night%20Agent%202023/The.Night.Agent.S01E05.720p.NF.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",The Night Agent Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Night%20Agent%202023/The.Night.Agent.S01E06.720p.NF.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Night%20Agent%202023/The.Night.Agent.S01E06.720p.NF.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",The Night Agent Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Night%20Agent%202023/The.Night.Agent.S01E07.720p.NF.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Night%20Agent%202023/The.Night.Agent.S01E07.720p.NF.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",The Night Agent Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Night%20Agent%202023/The.Night.Agent.S01E08.720p.NF.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Night%20Agent%202023/The.Night.Agent.S01E08.720p.NF.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",The Night Agent Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Night%20Agent%202023/The.Night.Agent.S01E09.720p.NF.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Night%20Agent%202023/The.Night.Agent.S01E09.720p.NF.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",The Night Agent Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Night%20Agent%202023/The.Night.Agent.S01E10.720p.NF.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Night%20Agent%202023/The.Night.Agent.S01E10.720p.NF.WEB-DL.MalaySub.mp4
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%201%20@portalmalay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%201%20@portalmalay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%202%20@portalmalay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%202%20@portalmalay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%203%20@portalmalay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%203%20@portalmalay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%204%20@portalmalay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%204%20@portalmalay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%205%20@portalmalay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%205%20@portalmalay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP6.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP6.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP7.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP7.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP8.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP8.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP9.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP9.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/abang%20Muazzin%20Episod%2010.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/abang%20Muazzin%20Episod%2010.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20Episod%2011.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20Episod%2011.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20Episod%2012.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20Episod%2012.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/abang%20muazzin%20Episod%2013.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/abang%20muazzin%20Episod%2013.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E14
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/abang%20muazzin%20Episod%2014.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/abang%20muazzin%20Episod%2014.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E15
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP15.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP15.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E16
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP16.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP16.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E17
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP17.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP17.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E18
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP18.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20EP18.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E19
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%2019%20@portalmalay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%2019%20@portalmalay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E20
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%2020%20@portalmalay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20(2023)%20Episod%2020%20@portalmalay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E21
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20Episod%2021.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20Episod%2021.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E22
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20Episod%2022.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Abang%20Muazzin%20TV2/Abang%20Muazzin%20Episod%2022.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://rtm-images.glueapi.io/320x426/program_episode/ABANG-MUAZZIN-POSTER.jpg",Abang Muazzin 2023 TV2 Episode E23
 #
@@ -3808,365 +3827,365 @@ https://vod.go-ott.workers.dev/0:/TÎ½Siri/Abang%20Muazzin%20TV2/Abang%20Muazzi
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" group-logo="https://m.media-amazon.com/images/M/MV5BM2U1MjQ4OTctMjhmZi00ZjUzLWI1ZTEtYTFmMWJhMzRhMmEyXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_FMjpg_UX1000_.jpg" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U1MjQ4OTctMjhmZi00ZjUzLWI1ZTEtYTFmMWJhMzRhMmEyXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_FMjpg_UX1000_.jpg",The Killer's Shopping List Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E01.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E01.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U1MjQ4OTctMjhmZi00ZjUzLWI1ZTEtYTFmMWJhMzRhMmEyXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_FMjpg_UX1000_.jpg",The Killer's Shopping List Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E02.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E02.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U1MjQ4OTctMjhmZi00ZjUzLWI1ZTEtYTFmMWJhMzRhMmEyXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_FMjpg_UX1000_.jpg",The Killer's Shopping List Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E03.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E03.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U1MjQ4OTctMjhmZi00ZjUzLWI1ZTEtYTFmMWJhMzRhMmEyXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_FMjpg_UX1000_.jpg",The Killer's Shopping List Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E04.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E04.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U1MjQ4OTctMjhmZi00ZjUzLWI1ZTEtYTFmMWJhMzRhMmEyXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_FMjpg_UX1000_.jpg",The Killer's Shopping List Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E05.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E05.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U1MjQ4OTctMjhmZi00ZjUzLWI1ZTEtYTFmMWJhMzRhMmEyXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_FMjpg_UX1000_.jpg",The Killer's Shopping List Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E06.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E06.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U1MjQ4OTctMjhmZi00ZjUzLWI1ZTEtYTFmMWJhMzRhMmEyXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_FMjpg_UX1000_.jpg",The Killer's Shopping List Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E07.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E07.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U1MjQ4OTctMjhmZi00ZjUzLWI1ZTEtYTFmMWJhMzRhMmEyXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_FMjpg_UX1000_.jpg",The Killer's Shopping List Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E08.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/The%20Killer's%20Shopping%20List/@SubMalaysia-The.Killer's.Shopping.List.S01E08.mkv
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" group-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E01.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E01.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E02.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E02.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E03.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E03.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E04.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E04.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E05.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E05.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E06.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E06.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E07.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E07.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E08.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E08.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E09.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E09.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E10.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E10.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E11.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E11.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E12.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E12.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E13.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E13.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E14
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E14.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E14.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E15
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E15.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E15.2021.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFlYmMzYzEtMDI0Mi00MTU1LThhNzItZThkNTg1NjMyM2VkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 1 Episode E16
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E16.2021.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%201/Taxi.Driver.S01E16.2021.MalaySub.mp4
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" group-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E01_The_Missing_Son_1080p_VIU_WEB_DL_AAC2_0.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E01_The_Missing_Son_1080p_VIU_WEB_DL_AAC2_0.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E02_Back_In_Business_1080p_VIU_WEB_DL_AAC2_0.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E02_Back_In_Business_1080p_VIU_WEB_DL_AAC2_0.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E03_The_Trot_Singer_1080p_VIU_WEB_DL_AAC2_0.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E03_The_Trot_Singer_1080p_VIU_WEB_DL_AAC2_0.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E04_Sang_Gi's_Prison_1080p_VIU_WEB_DL_AAC2_0.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E04_Sang_Gi's_Prison_1080p_VIU_WEB_DL_AAC2_0.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E05_Feel_Consulting_1080p_VIU_WEB_DL_AAC2_0.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E05_Feel_Consulting_1080p_VIU_WEB_DL_AAC2_0.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E06_The_Evil_Uncle_1080p_VIU_WEB_DL_AAC2_0_H.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E06_The_Evil_Uncle_1080p_VIU_WEB_DL_AAC2_0_H.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi.Driver.2023.S02E07.The.SunBaek.Cult.1080p.VIU.WEB-D.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi.Driver.2023.S02E07.The.SunBaek.Cult.1080p.VIU.WEB-D.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi.Driver.2023.S02E08.Beating.Cult.With.A.Cult.1080p.V.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi.Driver.2023.S02E08.Beating.Cult.With.A.Cult.1080p.V.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E09_The_Surgery_Malpractice_1080p.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E09_The_Surgery_Malpractice_1080p.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E10_Jeil_Chakhan_Factory_1080p_VIU.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi_Driver_2023_S02E10_Jeil_Chakhan_Factory_1080p_VIU.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi.Driver.S2.EP11.720p.WEB-OMG.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi.Driver.S2.EP11.720p.WEB-OMG.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi.Driver.S2.EP12.720p.WEB-OMG.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi.Driver.S2.EP12.720p.WEB-OMG.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi.Driver.S2.EP13.720p.WEB-OMG.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi.Driver.S2.EP13.720p.WEB-OMG.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E14
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi.Driver.S2.EP14.720p.WEB-OMG.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi.Driver.S2.EP14.720p.WEB-OMG.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E15
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi.Driver.S02E15.720p.VIU.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi.Driver.S02E15.720p.VIU.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNkYjViYTUtOWVjZC00YjE4LWFiZjktODFhYjQ1ZTk0MjVkXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg", Taxi Driver Season 2 Episode E16
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Taxi%20Driver%20Season%202/Taxi.Driver.2023.S02E16.The.Final.Client.1080p.VIU.WEB-D.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Taxi%20Driver%20Season%202/Taxi.Driver.2023.S02E16.The.Final.Client.1080p.VIU.WEB-D.mkv
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP01%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP01%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP02%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP02%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP03%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP03%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP04%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP04%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP05%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP05%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP06%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP06%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP07%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP07%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP08%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP08%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP09%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP09%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP10%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP10%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP11%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP11%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP12%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP12%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://telegra.ph/file/e7e95385b6572173667d6.jpg", Ejen Ali Musim 1 Episode E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP13ends%20%5BAkhir%5D%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%201/%2523NPRH22%20Ejen%20Ali%20(2016)%20S01%20EP13ends%20%5BAkhir%5D%20Subs%20Malay.mp4
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP01%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP01%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP02%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP02%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP03%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP03%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP04%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP04%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP05%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP05%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP06%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP06%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP07%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP07%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP08%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP08%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP09%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP09%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP10%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP10%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP11%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP11%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP12%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP12%20Subs%20Malay.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYzMjFhYmUtOGFjMy00M2RlLWJiM2EtNDFhNzE4MDU5YzlkXkEyXkFqcGdeQXVyNDY3NDk4ODQ@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 2 Episode E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP13ends%20%5BAkhir%5D%20Subs%20Malay.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%202/%2523NPRH22%20Ejen%20Ali%20(2017)%20S02%20EP13ends%20%5BAkhir%5D%20Subs%20Malay.mp4
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E01_Mission_Arena_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E01_Mission_Arena_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E02_Mission_Possible_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E02_Mission_Possible_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen.Ali.S03E03.1080p.HS.WEB-DL.AAC.x264-@cap.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen.Ali.S03E03.1080p.HS.WEB-DL.AAC.x264-@cap.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E04_Mission_Payback_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E04_Mission_Payback_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E05_Mission_Blackout_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E05_Mission_Blackout_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E06_Mission_Hunt_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E06_Mission_Hunt_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E07_Mission_Trap_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E07_Mission_Trap_1080p_MULTi_HS_WEB_DL_AAC2_0_x264.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E08_Mission_Change_1080p_HS_WEB_DL_AAC2_0_x264_KQRM.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E08_Mission_Change_1080p_HS_WEB_DL_AAC2_0_x264_KQRM.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E09_MISSION_HYBRID_1080p_HS_WEB_DL_AAC2_0_x264_KQRM.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen_Ali_S03E09_MISSION_HYBRID_1080p_HS_WEB_DL_AAC2_0_x264_KQRM.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/EJEN.ALI.S03E10.1080P.WEB-DL.AAC2.0.X264.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/EJEN.ALI.S03E10.1080P.WEB-DL.AAC2.0.X264.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen_Ali_2022_S03E11_Mission_Vital_1080p_HS_WEB_DL_DUAL_AUDIO_AAC2.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen_Ali_2022_S03E11_Mission_Vital_1080p_HS_WEB_DL_DUAL_AUDIO_AAC2.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen_Ali_2022_S03E12_Mission_Sting_1080p_HS_WEB_DL_AAC2_0_x264_KQRM.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen_Ali_2022_S03E12_Mission_Sting_1080p_HS_WEB_DL_AAC2_0_x264_KQRM.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Ejen Ali Musim 3 Episode E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Ejen%20Ali%20Musim%203/Ejen_Ali_2022_S03E13_Mission_Champion_1080p_HS_WEB_DL_DUAL_AUDIO.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Ejen%20Ali%20Musim%203/Ejen_Ali_2022_S03E13_Mission_Champion_1080p_HS_WEB_DL_DUAL_AUDIO.mkv
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" group-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E01.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E01.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E02.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E02.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E03.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E03.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E04.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E04.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E05.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E05.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E06.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E06.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E07.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E07.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E08.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E08.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E09.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E09.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E10.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E10.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E11.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E11.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E12.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E12.Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%201/S01.E13.Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%201/S01.E13.Mechamato.mkv
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" group-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E01%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E01%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E02%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E02%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E03%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E03%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E04%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E04%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E05%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E05%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E06%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E06%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E07%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E07%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E08%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E08%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E09%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E09%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E10%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E10%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E11
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E11%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E11%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E12
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E12%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E12%5D%20Mechamato.mkv
 
 #EXTINF:-1 type="series" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 2 Episode E13
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Mechamato%20SeÎ±son%202/%5BS02.E13%5D%20Mechamato.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Mechamato%20Seαson%202/%5BS02.E13%5D%20Mechamato.mkv
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RDKaL8I1X-x9qwzMcZ3mVPGKxVp8pLDdsWF7fNoMysM420_MEJO3Ne7M11dil_1qtFqEO5iUfDADOUKH7J2S2XENNcqVrkHVAEdKX8pzbq0N1VkLNnfeeB11JwkTdMArySib-Lm8e67OavH1DEOehF9bff4qrILJxpW3yGTFiSJQroAf5-l4OyJHaw/w0/Nenek%20Bongkok%20Tiga.jpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RDKaL8I1X-x9qwzMcZ3mVPGKxVp8pLDdsWF7fNoMysM420_MEJO3Ne7M11dil_1qtFqEO5iUfDADOUKH7J2S2XENNcqVrkHVAEdKX8pzbq0N1VkLNnfeeB11JwkTdMArySib-Lm8e67OavH1DEOehF9bff4qrILJxpW3yGTFiSJQroAf5-l4OyJHaw/w0/Nenek%20Bongkok%20Tiga.jpg", Nenek Bongkok Tiga Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20EP1%20(2023)%20720p.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20EP1%20(2023)%20720p.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RDKaL8I1X-x9qwzMcZ3mVPGKxVp8pLDdsWF7fNoMysM420_MEJO3Ne7M11dil_1qtFqEO5iUfDADOUKH7J2S2XENNcqVrkHVAEdKX8pzbq0N1VkLNnfeeB11JwkTdMArySib-Lm8e67OavH1DEOehF9bff4qrILJxpW3yGTFiSJQroAf5-l4OyJHaw/w0/Nenek%20Bongkok%20Tiga.jpg", Nenek Bongkok Tiga Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20EP2%20(2023)%201080p.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20EP2%20(2023)%201080p.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RDKaL8I1X-x9qwzMcZ3mVPGKxVp8pLDdsWF7fNoMysM420_MEJO3Ne7M11dil_1qtFqEO5iUfDADOUKH7J2S2XENNcqVrkHVAEdKX8pzbq0N1VkLNnfeeB11JwkTdMArySib-Lm8e67OavH1DEOehF9bff4qrILJxpW3yGTFiSJQroAf5-l4OyJHaw/w0/Nenek%20Bongkok%20Tiga.jpg", Nenek Bongkok Tiga Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20EP3%20(2023)%201080p.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20EP3%20(2023)%201080p.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RDKaL8I1X-x9qwzMcZ3mVPGKxVp8pLDdsWF7fNoMysM420_MEJO3Ne7M11dil_1qtFqEO5iUfDADOUKH7J2S2XENNcqVrkHVAEdKX8pzbq0N1VkLNnfeeB11JwkTdMArySib-Lm8e67OavH1DEOehF9bff4qrILJxpW3yGTFiSJQroAf5-l4OyJHaw/w0/Nenek%20Bongkok%20Tiga.jpg", Nenek Bongkok Tiga Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20(2023)%20EP4%201080p.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20(2023)%20EP4%201080p.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RDKaL8I1X-x9qwzMcZ3mVPGKxVp8pLDdsWF7fNoMysM420_MEJO3Ne7M11dil_1qtFqEO5iUfDADOUKH7J2S2XENNcqVrkHVAEdKX8pzbq0N1VkLNnfeeB11JwkTdMArySib-Lm8e67OavH1DEOehF9bff4qrILJxpW3yGTFiSJQroAf5-l4OyJHaw/w0/Nenek%20Bongkok%20Tiga.jpg", Nenek Bongkok Tiga Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20(2023)%20EP5%201080p.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20(2023)%20EP5%201080p.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RDKaL8I1X-x9qwzMcZ3mVPGKxVp8pLDdsWF7fNoMysM420_MEJO3Ne7M11dil_1qtFqEO5iUfDADOUKH7J2S2XENNcqVrkHVAEdKX8pzbq0N1VkLNnfeeB11JwkTdMArySib-Lm8e67OavH1DEOehF9bff4qrILJxpW3yGTFiSJQroAf5-l4OyJHaw/w0/Nenek%20Bongkok%20Tiga.jpg", Nenek Bongkok Tiga Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20(2023)%20EP6%201080p.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20(2023)%20EP6%201080p.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RDKaL8I1X-x9qwzMcZ3mVPGKxVp8pLDdsWF7fNoMysM420_MEJO3Ne7M11dil_1qtFqEO5iUfDADOUKH7J2S2XENNcqVrkHVAEdKX8pzbq0N1VkLNnfeeB11JwkTdMArySib-Lm8e67OavH1DEOehF9bff4qrILJxpW3yGTFiSJQroAf5-l4OyJHaw/w0/Nenek%20Bongkok%20Tiga.jpg", Nenek Bongkok Tiga Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20EP7%20(2023)%201080p.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Nenek%20Bongkok%20Tiga/Nenek%20Bongkok%20Tiga%20EP7%20(2023)%201080p.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RDKaL8I1X-x9qwzMcZ3mVPGKxVp8pLDdsWF7fNoMysM420_MEJO3Ne7M11dil_1qtFqEO5iUfDADOUKH7J2S2XENNcqVrkHVAEdKX8pzbq0N1VkLNnfeeB11JwkTdMArySib-Lm8e67OavH1DEOehF9bff4qrILJxpW3yGTFiSJQroAf5-l4OyJHaw/w0/Nenek%20Bongkok%20Tiga.jpg", Nenek Bongkok Tiga Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Nenek%20Bongkok%20Tiga/Nenek.Bongkok.Tiga.EP8.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Nenek%20Bongkok%20Tiga/Nenek.Bongkok.Tiga.EP8.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RDKaL8I1X-x9qwzMcZ3mVPGKxVp8pLDdsWF7fNoMysM420_MEJO3Ne7M11dil_1qtFqEO5iUfDADOUKH7J2S2XENNcqVrkHVAEdKX8pzbq0N1VkLNnfeeB11JwkTdMArySib-Lm8e67OavH1DEOehF9bff4qrILJxpW3yGTFiSJQroAf5-l4OyJHaw/w0/Nenek%20Bongkok%20Tiga.jpg", Nenek Bongkok Tiga Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Nenek%20Bongkok%20Tiga/Nenek.Bongkok.Tiga.EP9.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Nenek%20Bongkok%20Tiga/Nenek.Bongkok.Tiga.EP9.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RDKaL8I1X-x9qwzMcZ3mVPGKxVp8pLDdsWF7fNoMysM420_MEJO3Ne7M11dil_1qtFqEO5iUfDADOUKH7J2S2XENNcqVrkHVAEdKX8pzbq0N1VkLNnfeeB11JwkTdMArySib-Lm8e67OavH1DEOehF9bff4qrILJxpW3yGTFiSJQroAf5-l4OyJHaw/w0/Nenek%20Bongkok%20Tiga.jpg", Nenek Bongkok Tiga Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Nenek%20Bongkok%20Tiga/Nenek.Bongkok.Tiga.EP10.1080p.WEB.DL.AAC.x264-KSO.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Nenek%20Bongkok%20Tiga/Nenek.Bongkok.Tiga.EP10.1080p.WEB.DL.AAC.x264-KSO.mp4
 
 ########################[DIVIDER]#############################
 
@@ -4197,57 +4216,57 @@ https://onedrive.astradamy.com/api/raw/?path=/TVSeries/One.Cent.Thief.2022/One.C
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" group-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", High Council Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Projek%20High%20Council/High%20Council%20Episode%201.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Projek%20High%20Council/High%20Council%20Episode%201.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", High Council Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Projek%20High%20Council/High%20Council%20Episode%202.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Projek%20High%20Council/High%20Council%20Episode%202.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", High Council Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Projek%20High%20Council/High%20Council%20Episode%203.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Projek%20High%20Council/High%20Council%20Episode%203.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", High Council Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Projek%20High%20Council/High%20Council%20Episode%204.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Projek%20High%20Council/High%20Council%20Episode%204.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", High Council Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Projek%20High%20Council/High%20Council%20Episode%205.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Projek%20High%20Council/High%20Council%20Episode%205.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", High Council Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Projek%20High%20Council/High%20Council%20Episode%206.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Projek%20High%20Council/High%20Council%20Episode%206.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", High Council Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Projek%20High%20Council/High%20Council%20Episode%207.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Projek%20High%20Council/High%20Council%20Episode%207.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", High Council Episode E08
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Projek%20High%20Council/High%20Council%20Episode%208.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Projek%20High%20Council/High%20Council%20Episode%208.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", High Council Episode E09
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Projek%20High%20Council/High%20Council%20Episode%209.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Projek%20High%20Council/High%20Council%20Episode%209.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", High Council Episode E10
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Projek%20High%20Council/High%20Council%20Episode%2010.mkv
+https://vod.go-ott.workers.dev/0:/TνSiri/Projek%20High%20Council/High%20Council%20Episode%2010.mkv
 
 ########################[DIVIDER]#############################
 
 #EXTINF:-1 type="series" group-logo="https://m.media-amazon.com/images/M/MV5BM2Q3YWUxNDktNDU1ZS00ZjgzLWIwNTYtMmQ5MTdhNmIwMDM5XkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_.jpg" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3YWUxNDktNDU1ZS00ZjgzLWIwNTYtMmQ5MTdhNmIwMDM5XkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_.jpg", Spacial Force Anarchy Episode E01
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E01.720p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E01.720p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3YWUxNDktNDU1ZS00ZjgzLWIwNTYtMmQ5MTdhNmIwMDM5XkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_.jpg", Spacial Force Anarchy Episode E02
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E02.720p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E02.720p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3YWUxNDktNDU1ZS00ZjgzLWIwNTYtMmQ5MTdhNmIwMDM5XkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_.jpg", Spacial Force Anarchy Episode E03
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E03.720p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E03.720p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3YWUxNDktNDU1ZS00ZjgzLWIwNTYtMmQ5MTdhNmIwMDM5XkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_.jpg", Spacial Force Anarchy Episode E04
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E04.720p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E04.720p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3YWUxNDktNDU1ZS00ZjgzLWIwNTYtMmQ5MTdhNmIwMDM5XkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_.jpg", Spacial Force Anarchy Episode E05
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E05.720p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E05.720p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3YWUxNDktNDU1ZS00ZjgzLWIwNTYtMmQ5MTdhNmIwMDM5XkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_.jpg", Spacial Force Anarchy Episode E06
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E06.720p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E06.720p.WEB-DL.MalaySub.mp4
 
 #EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3YWUxNDktNDU1ZS00ZjgzLWIwNTYtMmQ5MTdhNmIwMDM5XkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_.jpg", Spacial Force Anarchy Episode E07
-https://vod.go-ott.workers.dev/0:/TÎ½Siri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E07.720p.WEB-DL.MalaySub.mp4
+https://vod.go-ott.workers.dev/0:/TνSiri/Special%20Force:%20Anarchy/Special.Force.Anarchy.S01E07.720p.WEB-DL.MalaySub.mp4
 
 ###[Astro Radio]###
 #EXTINF:-1 tvg-id="HITZ" tvg-name="HITZ FM" group-title="Astro Radio" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" ch-number="852",852 HITZ FM
