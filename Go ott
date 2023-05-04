@@ -68,6 +68,10 @@ https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzzyNeDqvdbtqTnXA-
 #EXTVLCOPT:http-user-agent=AMTVPlayer
 http://51.79.251.116:8080/live/zozo2022/abc12345/18.m3u8?token=GEYOU0ZZQVsaClUFXAFTUAEFVFkHUQMGAAUBVQIMA1tWB1VQUVJWWQAQGhJLEUQBUFo5UQVECVMOHxEUQ1xGZgoARAgXBVJTDwMUHBoRXwlUFVwITURDC1IRCUMICgQPQUhEV01FBhNWU1pvXABADVJSRAIPE18OGhFcD29dUVQCCgIQDxNTQxQQX0NIRwwKRFsKFEMEWhZEUkcEEgMWCFFQUhAZEwAOTVxCQkFHDEZkZEQUQwNLFlNdQAhfVxYDQQlVRw0TT0NRQWlCXRZCFlRWC10TRAlABhEfQ11YTGYACwhcUFIXCFdcRRICRwdGHRULVw8PRw1EbEMIVBsOG1FcXgUXTA==
 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna HD (C)
+http://51.79.206.58:8089/dash/2402.mpd
+http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=go_ott
+
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" ch-number="104",104 Astro Ria HD (C)
 http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
 
@@ -151,11 +155,14 @@ http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=57123
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="AOTG All;Bahasa Malaysia;Movies" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" ch-number="108",108 Astro Citra FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUjjbTtOv8cuRb0E1qtZASgo=zlKa/dash-wv/jitp-dashisowm/2700/default_primary.mpd
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNkEiWXuMoYvr4ZXVDRQW_Vo=IpY6/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+http://51.79.206.58:8089/dash/2700.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="AOTG All;Bahasa Malaysia;Movies" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" ch-number="108",108 Astro Citra HD (B)
 #EXTVLCOPT:http-user-agent=AMTVPlayer
 http://51.79.251.116:8080/live/zozo2022/abc12345/27.m3u8?token=GEYOU0ZZQVsaCw9SAARXXVIHVQlZAANQVAAHBQBaBFtXXVcEVlMHAwkQGhJLEUQBUFo5UQVECVABHxEUQ1xGZgoARAgXBVJTDwMUHBoRXwlUFVwITURDC1IRCUMBAQwOUEZKEFBJFwRKXFdcZwFTElhUAxpbCEYOWh8RDl5mUFwOBQhWFwtBURoeFFlLFRReX0IKVE1EUQtCQVIVVRsOG1JcVAUXHUECV0dYREocFF4TYjUaTURWGkJWXRJZVlobWUYLAUAJQU0aW0VvSgBFEENSB1UEFBFYFAMRTRJUVUE8BwlcW1QAFVFdWEMaXxRVExtEVQ4IWhZZQWwRWV0WA0FVUwEEEx4=
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="AOTG All;Bahasa Malaysia;Movies" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" ch-number="108",108 Astro Citra HD (C)
+http://51.79.206.58:8089/dash/2700.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
