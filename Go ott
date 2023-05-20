@@ -1428,7 +1428,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" group-title="AOTG All;Sports" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" ch-number="803",803 Astro Arena Bola FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default_primary.mpd
-#https://linears-playback.astro.com.my/vsg/41fFn92i8Rz8Ta4Ju4NW5pL2r5AVg6O7bxK90J-aiBr7U=_mNo/dash-wv/jitp-linearwm/5099/default_primary.mpd
+https://aqfadtv.xyz/live/arenabola/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1437,7 +1437,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" group-title="AOTG All;Sports" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" ch-number="803",803 Astro Arena Bola HD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default_ott.mpd
-#https://linears-playback.astro.com.my/vsg/41fFn92i8Rz8Ta4Ju4NW5pL2r5AVg6O7bxK90J-aiBr7U=_mNo/dash-wv/jitp-linearwm/5099/default_primary.mpd
+https://aqfadtv.xyz/videos/liveevent/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1601
+#EXTINF:-1 tvg-id="AstroSupersportUHD" ch-number="805" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSportUHD.png" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png",Astro SuperSport UHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1446,7 +1451,36 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="Astro Arena Bola 2" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" ch-number="804",804 Astro Arena Bola 2 FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41h0LfIizynz_nYJQ9Y78Tzt59T5cXfO0Gy6g6MNh8UuE=UIUA/dash-wv/jitp-linearwm/5100/default_primary.mpd
+https://aqfadtv.xyz/videos/liveevent/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/beINSports2.png",beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:-1 tvg-id="beINSports" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="818" tvg-logo="https://aqfadtv.xyz/logos/beINSports.png",beIN Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:-1 tvg-id="beINSports3" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="819" tvg-logo="https://aqfadtv.xyz/logos/beINSports3.png",beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
+#EXTINF:-1 tvg-id="beINSports" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="708" tvg-logo="https://aqfadtv.xyz/logos/beINSports.png",beIN Sports (Unifi TV Feed)
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZmM0Y2FkMjQtODNlMy0zYWExLWJkOTMtYmQ4YjhhYTM4MjU5
+#EXTINF:-1 tvg-id="BeInSports4" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220812/20220812083713068j19.png",Bein Sports 4
+https://aqfadtv.xyz/live/unifitv/beinsports4/index.mpd
+
+
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://aqfadtv.xyz/logos/SonyPIX.png" group-title="AOTG All;Movies" group-logo="https://aqfadtv.xyz/images/movies.png",Sony PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1661,7 +1695,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro Supersport" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" ch-number="811",811 Astro SuperSport FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41qiERuU_Red7z1IwaYYnfCH9zKa8iV5rqTcXI58JJjF8=DvYe/dash-wv/jitp-linearwm/601/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1679,7 +1713,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Supersport 2" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" ch-number="812",812 Astro SuperSport 2 FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41ah8T7gKZaTiFaw0Ffsu_PQb4MBdSopK42EajjHn-4qA=thbC/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://ddy1.salamus1.lol/ddy1/premium124/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1697,7 +1731,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Supersport 3" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" ch-number="813",813 Astro SuperSport 3 FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41CsXa7KE-dmkWmlQEyWchaa34ats_qiKJw2jbvnIWvVc=XyOt/dash-wv/jitp-linearwm/2701/default_primary.mpd
+https://ddy1.salamus1.lol/ddy1/premium125/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1706,7 +1740,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Supersport 3" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" ch-number="813",813 Astro SuperSport 3 HD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41CsXa7KE-dmkWmlQEyWchaa34ats_qiKJw2jbvnIWvVc=XyOt/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://ddy1.salamus1.lol/ddy1/premium125/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1714,7 +1748,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kf6+hDwIx8xSPv2CcpLkDg","kid":"efQChzCsypq4sA8mFY3bEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Supersport 4" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" ch-number="814",814 Astro SuperSport 4 FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1840,7 +1874,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" group-title="Sports Sooka" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png",803 Astro Arena Bola FHD (SOOKA)
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+https://aqfadtv.xyz/live/arenabola/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HUTRZMkZrWkRNdE4ySTJaUzAwWTJFMkxXRXpZemN0TURjeE0yVXhOekJsTURBNCIsIndtb3BpZCI6MzIsImV4cCI6MTY4MzExMDE3NywiaWF0IjoxNjgyNTA2MTc3fQ.CLAnSiRSNUcswyZW2Yo4PQKYh-aeYd7m0OnaxCqGvAE"}
@@ -1849,7 +1883,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="Astro Arena Bola 2" group-title="Sports Sooka" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png",804 Astro Arena Bola 2 FHD (SOOKA)
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+https://aqfadtv.xyz/videos/liveevent/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HUTRZMkZrWkRNdE4ySTJaUzAwWTJFMkxXRXpZemN0TURjeE0yVXhOekJsTURBNCIsIndtb3BpZCI6MzIsImV4cCI6MTY4MzExMDE3NywiaWF0IjoxNjgyNTA2MTc3fQ.CLAnSiRSNUcswyZW2Yo4PQKYh-aeYd7m0OnaxCqGvAE"}
