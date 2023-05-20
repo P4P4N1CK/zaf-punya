@@ -1476,6 +1476,13 @@ https://ddy1.salamus1.lol/ddy1/premium124/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ddy1.salamus1.lol/ddy1/premium125/index.m3u8
 
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="812" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport2.png",Astro SuperSport 2 HD 
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ddy1.salamus1.lol/ddy1/premium124/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="813" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport3.png",Astro SuperSport 3 FHD 
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ddy1.salamus1.lol/ddy1/premium125/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
