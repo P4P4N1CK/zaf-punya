@@ -1468,6 +1468,15 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="812" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport2.png",Astro SuperSport 2 
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ddy1.salamus1.lol/ddy1/premium124/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="813" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport3.png",Astro SuperSport 3 
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ddy1.salamus1.lol/ddy1/premium125/index.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
 #EXTINF:-1 tvg-id="beINSports" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="708" tvg-logo="https://aqfadtv.xyz/logos/beINSports.png",beIN Sports (Unifi TV Feed)
