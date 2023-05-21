@@ -1505,7 +1505,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="Astro Arena Bola 2" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png"  ch-number="804",804 Astro Arena Bola 2 HD
 #EXTVLCOPT:http-referrer=https://linears-playback.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41h0LfIizynz_nYJQ9Y78Tzt59T5cXfO0Gy6g6MNh8UuE=UIUA/dash-wv/jitp-linearwm/5100/default_primary.mpd
+https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_97mm9zac/v/1/ev/7/flavorId/1_,85bxj01y,cs70ud21,pc9ej95k,938ymxnb,i5361fvz,7k3uh714,ft5ygbfj,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
