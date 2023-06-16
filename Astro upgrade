@@ -44,3 +44,10 @@ http://shareex@195.26.87.217/live?channelId=199&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 tvg-id="MoviesNow" group-title="Another@Movies",Movies Now
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=156022&extension=m3u8&play_token=xdbt7BgLik
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUTmhOakU1WTJVdE1UZGhNeTAwWmpoakxUbG1OMk10TURRd1lqZG1PR05qWVdWbSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NjExNjc3MCwiaWF0IjoxNjg1NTEyNzcwfQ.voQGoJhxy94CN0X7ZnKBrQhV06HBuJBEbcUYkPPZOK8"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" group-title="Astrok@Sports" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://speedtrademarket.com/live/logo/arenabola_logo.png",Arena Bola 1 (Sooka) (A)
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
