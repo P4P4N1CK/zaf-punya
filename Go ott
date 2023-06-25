@@ -130,14 +130,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUpGkPaEzL7XgXbkeSoMzS3w=lkNA/dash-wv/jitp-linearwm/2402/default_primary.mpd
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=go_ott
+http://odtv.uk:80/3028968008/9141808032/1100
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna HD (B)
 #EXTVLCOPT:http-user-agent=AMTVPlayer
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/407489.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna HD (C)
-http://odtv.uk:80/3028968008/9141808032/74
+http://odtv.uk:80/3028968008/9141808032/18
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
