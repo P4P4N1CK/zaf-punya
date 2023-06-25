@@ -322,7 +322,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="AstroVinmeen" tvg-name="Astro Vinmeen HD" group-title="AOTG All;Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png" ch-number="202",202 Astro Vinmeen FHD 
+#EXTINF:-1 tvg-id="AstroVinmeen" tvg-name="Astro Vinmeen HD" group-title="AOTG All;Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" ch-number="202",202 Astro Vinmeen FHD 
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://is.gd/2tT0yg.mpd
 
