@@ -326,6 +326,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://is.gd/2tT0yg.mpd
 
+#EXTINF:-1 tvg-id="VijaySuper"  group-title="AOTG All;Indian;Movies" tvg-logo="" Star Vijay Super HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155875&extension=ts&play_token=m8DyLdx3Mv
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
