@@ -79,3 +79,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Astrok@Sports" tvg-id="spotv.kr" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV (B)
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 tvg-id="VijaySuper"  group-title="AOTG All;Indian;Movies" tvg-logo="" Star Vijay Super HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155875&extension=ts&play_token=m8DyLdx3Mv
+
