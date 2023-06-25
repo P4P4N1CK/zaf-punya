@@ -397,7 +397,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
-#EXTINF:-1 tvg-id="StarVijaySuper"  group-title="AOTG All;Indian;Movies" tvg-logo="https://www.exchange4media.com/news-photo/95120-VijaySuper.png" Star Vijay Super
+#EXTINF:-1 tvg-id="StarVijaySuper"  group-title="AOTG All;Indian;Movies" tvg-logo="" Star Vijay Super
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155875&extension=ts&play_token=m8DyLdx3Mv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -645,7 +645,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1 tvg-id="StarMovies" tvg-name="StarMovies" group-title="AOTG All;Moviess",Star Movies HD
+#EXTINF:-1 tvg-id="StarMovies" tvg-name="StarMovies" group-title="AOTG All;Movies",Star Movies HD
 http://shareex@195.26.87.217/live?channelId=198&deviceMac=00:1A:79:33:E9:41
 
 #EXTINF:-1 tvg-id="StarMoviesSelects" tvg-name="StarMoviesSelects" group-title="AOTG All;Movies",Star Movies Selects HD
@@ -1515,19 +1515,19 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extens
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
 
-#EXTINF:0 group-title="AOTG All;Sports" tvg-id="2889" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png" tvg-rec="3",BT SPORT 1 FHD UK
+#EXTINF:0 group-title="AOTG All;Sports" tvg-id="2889" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png" tvg-rec="3",BT SPORT 1 FHD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium31/index.m3u8|referer=https://widevine.licenses4.me/ 
 
-#EXTINF:0 group-title="AOTG All;Sports" tvg-id="2889" tvg-logo="https://pbs.twimg.com/profile_images/1136705845167886337/-yhM9DVG_400x400.png" tvg-rec="3",BT SPORT 2 UK
+#EXTINF:0 group-title="AOTG All;Sports" tvg-id="2889" tvg-logo="https://pbs.twimg.com/profile_images/1136705845167886337/-yhM9DVG_400x400.png" tvg-rec="3",BT SPORT 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webudit.cdnhks.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:0 group-title="AOTG All;Sports" tvg-id="2889" tvg-logo="https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png" tvg-rec="3",BT SPORT 3 UK
+#EXTINF:0 group-title="AOTG All;Sports" tvg-id="2889" tvg-logo="https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png" tvg-rec="3",BT SPORT 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium33/index.m3u8|referer=https://widevine.licenses4.me/ 
 
-#EXTINF:0 group-title="AOTG All;Sports" tvg-id="2889" tvg-logo="https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png" tvg-rec="3",BT SPORT 4 UK
+#EXTINF:0 group-title="AOTG All;Sports" tvg-id="2889" tvg-logo="https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png" tvg-rec="3",BT SPORT 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webudit.cdnhks.lol/lb/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -1574,7 +1574,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
-#EXTINF: -1 tvg-id="SPOTV" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="816" tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png",816 SPOTV 
+#EXTINF: -1 tvg-id="SPOTV" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="816" tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png",816 SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
@@ -1834,7 +1834,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Astrok@Sports" tvg-id="AOTG All;Sports" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV2 (B)
+#EXTINF:-1 group-title="AOTG All;Sports" tvg-id="AOTG All;Sports" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV2 (B)
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
