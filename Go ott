@@ -397,7 +397,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
-#EXTINF:-1 tvg-id="StarVijaySuper"  group-title="AOTG All;Indian;Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" Star Vijay Super
+#EXTINF:-1 tvg-id="StarVijaySuper"  group-title="AOTG All;Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" Vijay Super
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155875&extension=ts&play_token=m8DyLdx3Mv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
