@@ -400,6 +400,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 #EXTINF:-1 tvg-id="StarVijaySuper"  group-title="AOTG All;Indian;Movies" tvg-logo="",221 Star Vijay Super
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155875&extension=ts&play_token=m8DyLdx3Mv
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWY3MzhlOGItNmU2NS0zMjRkLTkxNjEtZmU1YmQxYTUyM2Y3
+#EXTINF:-1 group-title="AOTG All;Indian;Movies" tvg-id="Zee Thirai" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202206/20220623/20220623190144437nxu.png",Zee Thirai
+http://centerrrs.hypp.tv/PLTV/88888888/224/3221227947/3221227947.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gQyN9%2BgfeEFhTyoSyhO37lp1OFiNwCRzwCRyAq1IzYt5NaWhXVqvBpIua5D0HdwVb0vBgFtr3Dn6a4CL%2BDMoRkJ%2B3P3jV%2FN37Zj8EJ7jeYGp%2Ba5DDgn9Gs6GDa3XoFXtXA%3D%3D%3A20221124143216%3AUTC%2C1001767137%2C115.164.56.153%2C20221124143216%2Curn:Huawei:liveTV:XTV56750159%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2Cf69f770a-25fc-0aa8-a705-e34e0cfe9330%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLKzbk4YVXVJUqVaESKVs0sa_dCCcGOyD170sg3c7MGZ05wdDHm-5htrJ0MJWttxuSvXKyEQplSY3qS8cyXduoJTMIYZh8G-2CHQ-7kyh4waUUXAjWLXfvAX5dtrexp6Q3_9iB0n0wpG12_I7M4X0ij3mIE_8K-P1OYZ0w6lY1UVWqbpSURa0qNi9ph3x-NOwHeRfHCxLZz-ifgHYImdgF5gxPLUbS0y2EF7dP9mHzBzX3K_30AAAA&tenantId=6001
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1497,6 +1502,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
+#EXTINF: -1 tvg-id="SPOTV" group-title="AOTG All;Sports"" ch-number="816" tvg-logo="https://i.postimg.cc/PqkRyzWG/download-2023-05-28-T192044-135.png",816 SPOTV (Malaysian Feed)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd 
+
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="AOTG All;Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="812" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport2.png",Astro SuperSport 2 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_token=oNnNMlQM3k
@@ -1816,6 +1826,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Supersport 4" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" ch-number="814",814 Astro SuperSport 4 HD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
+#EXTINF:-1 tvg-id="SPOTV2" ch-number="810" group-title="AOTG All;Sports" tvg-logo="https://i.postimg.cc/SN21ptVF/download-2023-05-28-T192052-945.png",810 SPOTV2 (Malaysian Feed)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="Astrok@Sports" tvg-id="AOTG All;Sports" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV2 (B)
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
