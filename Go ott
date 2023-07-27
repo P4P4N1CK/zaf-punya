@@ -324,14 +324,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="AstroVinmeen" tvg-name="Astro Vinmeen HD" group-title="AOTG All;Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" ch-number="202",202 Astro Vinmeen FHD 
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://is.gd/2tT0yg.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
-#EXTINF:-1 tvg-id="202.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="Astro",Astro Vinmeen Astro 
+#EXTINF:-1 tvg-id="202.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="Astro",Astro Vinmeen Astro
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default.mpd
 
-#EXTINF:-1 tvg-id="VijaySuper" group-title="AOTG All;Indian;Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Vijay_Super_2019.jpg/revision/latest?cb=20210319224924"  Vijay Super 
+#EXTINF:-1 tvg-id="207.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="Astro", Vijay super
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155875&extension=ts&play_token=m8DyLdx3Mv
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1452,8 +1452,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HuOyUiJ8XC7JN4yDPS4U/w","kid":"6tAzXWBAEiVyem1THpwnEA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="AstroArena2" tvg-name="Astro Arena 2 HD" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" ch-number="802",802 Astro Arena 2 HD 
+#EXTINF:-1 tvg-id="AstroArena2" tvg-name="Astro Arena 2 HD" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" ch-number="802",802 Astro Arena 2 down
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b5e515638de4243b6ba49843d0be763:24ad47f73c8cfffc6961d47aa551b882
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUXpNbUptTm1JdE5EQm1OQzAwTVRneExXRm1ZalV0T1RabU9UY3hPRGsyWmpreSIsIndtb3BpZCI6MzIsImV4cCI6MTY5MDU0MjY1NiwiaWF0IjoxNjg5OTM4NjU2fQ.s0sQx8GzttScF4C0ybmwQZxo8GX7_msIIloczYs3LCA"}
+#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="AOTG All;Sports",Astro Arena 2 HD
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1806,7 +1812,8 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Supersport 3" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" ch-number="813",813 Astro SuperSport 3 FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
+https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1858,42 +1865,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" ch-number="123",123 Awesome TV HD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9cMpWAcj/9Gt9leOx5jFOA","kid":"d+BzXIrxgqlGGrK+NVG9EA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="AstroArenaBola4" tvg-name="Astro Arena Bola 4" group-title="AOTG All;Sports" tvg-logo="https://linear-poster.astro.com.my/prod/poster/AstroArenaBola04_IVP_LAND_1280x720.jpg" ch-number="807",807 Arena Bola 4 FHD
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9cMpWAcj/9Gt9leOx5jFOA","kid":"d+BzXIrxgqlGGrK+NVG9EA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="AstroArenaBola4" tvg-name="Astro Arena Bola 4" group-title="AOTG All;Sports" tvg-logo="https://linear-poster.astro.com.my/prod/poster/AstroArenaBola04_IVP_LAND_1280x720.jpg" ch-number="807",807 Arena Bola 4 HD
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PuQ1C8CSgFmcLfZeGGntGA","kid":"l0fLDwdEg+XkaUnba5b7EA"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="AstroArenaBola3" tvg-name="Astro Arena Bola 3" group-title="AOTG All;Sports" tvg-logo="https://i.imgur.com/GLGRRPH.png" ch-number="807",807 Arena Bola 3 FHD
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41qiERuU_Red7z1IwaYYnfCFsny8vqxf3n8uJqQ_1tgKY=nok8/dash-wv/jitp-linearwm/5101/default_primary.mpd
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PuQ1C8CSgFmcLfZeGGntGA","kid":"l0fLDwdEg+XkaUnba5b7EA"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="AstroArenaBola3" tvg-name="Astro Arena Bola 3" group-title="AOTG All;Sports" tvg-logo="https://i.imgur.com/GLGRRPH.png" ch-number="807",807 Arena Bola 3 HD
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41qiERuU_Red7z1IwaYYnfCFsny8vqxf3n8uJqQ_1tgKY=nok8/dash-wv/jitp-linearwm/5101/default_ott.mpd
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
