@@ -97,6 +97,18 @@ https://sookantv.com/ott/myria
 #KODIPROP:inputstream.adaptive.license_key=69796371dc4e457d98fa2b025eabfc94:6e171dc36e2356c24e4e59b19bc98fc5
 #EXTINF:-1 tvg-id="107.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Astro",Astro Warna
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Warna.png?3590" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",107 ASTRO WARNA 2
+#EXTVLCOPT:http-user-agent=Lavf/573590100
+#EXTVLCOPT:http-icy-metadata=1
+<!--https://sookantv.com/ott/mywarna-->
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69796371dc4e457d98fa2b025eabfc94:6e171dc36e2356c24e4e59b19bc98fc5
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Warna.png?3590" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",107 ASTRO WARNA
+https://sookantv.com/ott/warna.mpd
 #EXTINF: -1 tvg-id="108" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Astro", Astro Citra
 http://172.96.140.34:9138/stream/live/c20631.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
